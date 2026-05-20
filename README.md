@@ -8,25 +8,6 @@ Last updated: 2026-05-20
 Companies tracked: 100  
 Categories: 10
 
-## Contents
-
-- [Curation Criteria](#curation-criteria)
-- [Domain Counts](#domain-counts)
-- [Horizontal AI Workforce And Automation Platforms](#horizontal-ai-workforce-and-automation-platforms)
-- [Sales, SDR, And Revenue Agents](#sales-sdr-and-revenue-agents)
-- [Marketing, Growth, And AI CMO Agents](#marketing-growth-and-ai-cmo-agents)
-- [Customer Support, CX, And Ecommerce Agents](#customer-support-cx-and-ecommerce-agents)
-- [Recruiting And HR Agents](#recruiting-and-hr-agents)
-- [Finance, Accounting, And Back-Office Agents](#finance-accounting-and-back-office-agents)
-- [Legal And Compliance Agents](#legal-and-compliance-agents)
-- [Software Engineering, IT, And SRE Agents](#software-engineering-it-and-sre-agents)
-- [Security And SOC Agents](#security-and-soc-agents)
-- [Healthcare Admin And Clinical Operations Agents](#healthcare-admin-and-clinical-operations-agents)
-- [Data](#data)
-- [Contributing](#contributing)
-- [Roadmap](#roadmap)
-- [License](#license)
-
 ## Curation Criteria
 
 Included companies should meet at least one of these bars:
@@ -44,6 +25,28 @@ Excluded by default:
 
 Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for the submission checklist.
 
+<!-- LISTING:START -->
+<!-- This section is generated from data/companies.csv. Do not edit it by hand. -->
+
+## Contents
+
+- [Curation Criteria](#curation-criteria)
+- [Domain Counts](#domain-counts)
+- [Horizontal AI workforce and automation platforms](#horizontal-ai-workforce-and-automation-platforms)
+- [Sales, SDR, and revenue agents](#sales-sdr-and-revenue-agents)
+- [Marketing, growth, and AI CMO agents](#marketing-growth-and-ai-cmo-agents)
+- [Customer support, CX, and ecommerce agents](#customer-support-cx-and-ecommerce-agents)
+- [Recruiting and HR agents](#recruiting-and-hr-agents)
+- [Finance, accounting, and back-office agents](#finance-accounting-and-back-office-agents)
+- [Legal and compliance agents](#legal-and-compliance-agents)
+- [Software engineering, IT, and SRE agents](#software-engineering-it-and-sre-agents)
+- [Security and SOC agents](#security-and-soc-agents)
+- [Healthcare admin and clinical operations agents](#healthcare-admin-and-clinical-operations-agents)
+- [Data](#data)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [License](#license)
+
 ## Domain Counts
 
 - Horizontal AI workforce and automation platforms: 10
@@ -59,7 +62,7 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 
 Total: 100
 
-## Horizontal AI Workforce And Automation Platforms
+## Horizontal AI workforce and automation platforms
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -74,7 +77,7 @@ Total: 100
 | 9 | Cassidy | AI agents that operate inside a company's existing tools and knowledge. | https://www.cassidyai.com/ |
 | 10 | Bardeen | Browser and app automation agents for repetitive knowledge work. | https://www.bardeen.ai/ |
 
-## Sales, SDR, And Revenue Agents
+## Sales, SDR, and revenue agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -91,7 +94,7 @@ Total: 100
 | 21 | SalesCloser AI | Voice AI sales agents for discovery, qualification, and closing conversations. | https://salescloser.ai/ |
 | 22 | Bland | AI phone agents for sales calls, qualification, scheduling, and follow-up. | https://www.bland.ai/ |
 
-## Marketing, Growth, And AI CMO Agents
+## Marketing, growth, and AI CMO agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -108,7 +111,7 @@ Total: 100
 | 33 | AirOps | AI agents and workflows for SEO, content, and growth operations. | https://www.airops.com/ |
 | 34 | Omneky | AI agents for ad creative generation, testing, and campaign optimization. | https://www.omneky.com/ |
 
-## Customer Support, CX, And Ecommerce Agents
+## Customer support, CX, and ecommerce agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -127,7 +130,7 @@ Total: 100
 | 47 | Gorgias | AI Agent for ecommerce customer support automation. | https://www.gorgias.com/product/ai-agent |
 | 48 | Siena AI | Autonomous customer service agents for commerce brands. | https://www.siena.cx/ |
 
-## Recruiting And HR Agents
+## Recruiting and HR agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -142,7 +145,7 @@ Total: 100
 | 57 | Adison.ai | AI recruitment team with agents for sourcing, selection, and candidate matching. | https://www.adison.ai/ |
 | 58 | Fountain | AI Recruiter for frontline and high-volume hiring. | https://www.fountain.com/airecruiter |
 
-## Finance, Accounting, And Back-Office Agents
+## Finance, accounting, and back-office agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -157,7 +160,7 @@ Total: 100
 | 67 | Finlessly | Autonomous CFO agent for audit, accounting automation, and finance analysis. | https://www.finlessly.ai/ |
 | 68 | Synthetic | AI bookkeeping agent for startup accounting workflows. | https://synthetic.ai/ |
 
-## Legal And Compliance Agents
+## Legal and compliance agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -172,7 +175,7 @@ Total: 100
 | 77 | Ironclad | AI-powered contract lifecycle management and legal workflow automation. | https://ironcladapp.com/ |
 | 78 | Norm Ai | Legal and compliance AI agents that encode laws, policies, and regulatory judgment. | https://www.norm.ai/ |
 
-## Software Engineering, IT, And SRE Agents
+## Software engineering, IT, and SRE agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -189,7 +192,7 @@ Total: 100
 | 89 | Ciroos | AI SRE teammate for incident investigation, anomaly analysis, and autonomous operations. | https://ciroos.ai/ |
 | 90 | Resolve AI | AI SRE for alert triage, root-cause analysis, and incident investigation. | https://resolve.ai/product/ai-sre |
 
-## Security And SOC Agents
+## Security and SOC agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -199,7 +202,7 @@ Total: 100
 | 94 | Radiant Security | AI SOC platform for threat detection, triage, and response. | https://radiantsecurity.ai/ |
 | 95 | XBOW | Autonomous AI penetration tester for offensive security work. | https://xbow.com/ |
 
-## Healthcare Admin And Clinical Operations Agents
+## Healthcare admin and clinical operations agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
@@ -209,15 +212,16 @@ Total: 100
 | 99 | Thoughtful AI | Healthcare revenue-cycle AI agents for complex RCM tasks. | https://www.thoughtful.ai/ |
 | 100 | Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
 
+<!-- LISTING:END -->
+
 ## Data
 
-The current list is also available as [data/companies.csv](data/companies.csv) with these fields:
+The source of truth is [data/companies.csv](data/companies.csv). Generated exports:
 
-- `rank`
-- `category`
-- `company`
-- `ai_employee_angle`
-- `link`
+- [README.md](README.md) listing sections
+- [data/companies.json](data/companies.json)
+
+Run `make generate` after editing the CSV. Run `make check` before committing.
 
 ## Contributing
 

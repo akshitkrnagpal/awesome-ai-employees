@@ -34,6 +34,9 @@ For each suggested company, include:
 
 ## Pull Request Style
 
+- Treat `data/companies.csv` as the source of truth for the list.
+- Run `make generate` after editing `data/companies.csv`.
+- Run `make check` before opening a pull request.
 - Keep entries alphabetically stable only within their existing numbered section if possible.
 - Keep descriptions short and factual.
 - Prefer the most specific product page over the company homepage.
