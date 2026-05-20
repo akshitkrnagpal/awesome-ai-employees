@@ -1,3 +1,5 @@
+![Awesome AI Employees hero banner](assets/hero.png)
+
 # Awesome AI Employees
 
 Curated list of companies selling **AI employees**, **digital workers**, **role-based agents**, **AI teammates**, and AI CxO-style products.
