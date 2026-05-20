@@ -1,0 +1,64 @@
+name: Company submission
+description: Suggest an AI employee, digital worker, AI teammate, or role-based agent company.
+title: "Add: "
+labels:
+  - submission
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      description: Company or product name.
+      placeholder: Example AI
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Evidence URL
+      description: Public page that shows the AI employee, digital worker, teammate, or role-based agent positioning.
+      placeholder: https://example.com/product
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Horizontal AI workforce and automation platforms
+        - Sales, SDR, and revenue agents
+        - Marketing, growth, and AI CMO agents
+        - Customer support, CX, and ecommerce agents
+        - Recruiting and HR agents
+        - Finance, accounting, and back-office agents
+        - Legal and compliance agents
+        - Software engineering, IT, and SRE agents
+        - Security and SOC agents
+        - Healthcare admin and clinical operations agents
+        - Other / unsure
+    validations:
+      required: true
+  - type: textarea
+    id: angle
+    attributes:
+      label: AI employee angle
+      description: One short sentence describing the recurring job or workflow this product handles.
+      placeholder: AI SDR for outbound prospecting, qualification, and meeting booking.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The linked page publicly supports the AI worker or recurring-workflow positioning.
+          required: true
+        - label: This is not just a generic LLM API, chatbot builder, or one-off AI feature.
+          required: true
+        - label: I removed tracking parameters and affiliate links from the URL.
+          required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional context such as role name, customer type, autonomy, integrations, pricing, or affiliation.

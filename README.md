@@ -1,8 +1,48 @@
 # Awesome AI Employees
 
-Date: 2026-05-20
+Curated list of companies selling **AI employees**, **digital workers**, **role-based agents**, **AI teammates**, and AI CxO-style products.
 
-A seed list of companies selling "AI employees", "digital workers", role-based agents, AI teammates, or AI CxO-style products. The inclusion bar is that the company positions the product as doing a recurring job or business function, not merely as a generic chatbot or model API.
+The focus is on products that are positioned as doing a recurring job or business function, not merely providing a generic chatbot, model API, or one-off AI feature.
+
+Last updated: 2026-05-20  
+Companies tracked: 100  
+Categories: 10
+
+## Contents
+
+- [Curation Criteria](#curation-criteria)
+- [Domain Counts](#domain-counts)
+- [Horizontal AI Workforce And Automation Platforms](#horizontal-ai-workforce-and-automation-platforms)
+- [Sales, SDR, And Revenue Agents](#sales-sdr-and-revenue-agents)
+- [Marketing, Growth, And AI CMO Agents](#marketing-growth-and-ai-cmo-agents)
+- [Customer Support, CX, And Ecommerce Agents](#customer-support-cx-and-ecommerce-agents)
+- [Recruiting And HR Agents](#recruiting-and-hr-agents)
+- [Finance, Accounting, And Back-Office Agents](#finance-accounting-and-back-office-agents)
+- [Legal And Compliance Agents](#legal-and-compliance-agents)
+- [Software Engineering, IT, And SRE Agents](#software-engineering-it-and-sre-agents)
+- [Security And SOC Agents](#security-and-soc-agents)
+- [Healthcare Admin And Clinical Operations Agents](#healthcare-admin-and-clinical-operations-agents)
+- [Data](#data)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [License](#license)
+
+## Curation Criteria
+
+Included companies should meet at least one of these bars:
+
+- The company explicitly sells an "AI employee", "digital worker", "AI teammate", "AI agent", or named role-based AI worker.
+- The product is positioned around an ongoing business function, such as sales development, customer support, recruiting, accounting, legal review, software engineering, security operations, or healthcare administration.
+- The product can complete work across a workflow, not just answer questions in a chat window.
+
+Excluded by default:
+
+- Generic LLM APIs, model providers, or chatbot builders without a role-based worker angle.
+- Single-feature AI add-ons that do not own a recurring workflow.
+- Internal-only agents with no public product page.
+- Companies where the AI positioning cannot be verified from a public source.
+
+Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for the submission checklist.
 
 ## Domain Counts
 
@@ -169,37 +209,30 @@ Total: 100
 | 99 | Thoughtful AI | Healthcare revenue-cycle AI agents for complex RCM tasks. | https://www.thoughtful.ai/ |
 | 100 | Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
 
-## Possible Repo Structure
+## Data
 
-```text
-awesome-ai-employees/
-  README.md
-  data/
-    companies.csv
-    companies.json
-  sections/
-    sales.md
-    marketing.md
-    support.md
-    recruiting.md
-    finance.md
-    legal.md
-    engineering-it.md
-    security.md
-    healthcare.md
-```
+The current list is also available as [data/companies.csv](data/companies.csv) with these fields:
 
-## Suggested Fields For A Structured Dataset
+- `rank`
+- `category`
+- `company`
+- `ai_employee_angle`
+- `link`
 
-- `name`
-- `domain`
-- `role_name`
-- `positioning`
-- `customer_type`
-- `autonomy_level`
-- `human_in_loop`
-- `channels`
-- `systems_integrated`
-- `pricing_public`
-- `evidence_url`
-- `notes`
+## Contributing
+
+This list is intentionally selective. A good submission includes the company name, product page, category, and one sentence explaining the AI employee or recurring-workflow angle.
+
+Before submitting, check that the company has a public product page and that the AI worker positioning is visible there. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full checklist.
+
+## Roadmap
+
+Planned additions before a wider public launch:
+
+- Link health checks.
+- Recent additions section.
+- More evidence notes for each listing.
+
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
