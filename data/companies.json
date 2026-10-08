@@ -705,5 +705,12 @@
     "company": "Tennr",
     "ai_employee_angle": "Healthcare AI agents for document, referral, and back-office workflows.",
     "link": "https://www.tennr.com/"
+  },
+  {
+    "rank": 102,
+    "category": "Open source and self-hosted AI employees",
+    "company": "AI Employees (Reinventing.AI)",
+    "ai_employee_angle": "Eight open source AI Employees under the MIT license: 60 scheduled routines covering GTM, SEO, web, social media, ads, sales, customer support and chief of staff, installed on the desktop AI agent you already use and run on your own machine.",
+    "link": "https://github.com/markfulton/ai-employees"
   }
 ]

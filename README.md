@@ -7,8 +7,8 @@ Curated list of companies selling **AI employees**, **digital workers**, **role-
 The focus is on products that are positioned as doing a recurring job or business function, not merely providing a generic chatbot, model API, or one-off AI feature.
 
 Last updated: 2026-05-20  
-Companies tracked: 101  
-Categories: 10
+Companies tracked: 102  
+Categories: 11
 
 ## Curation Criteria
 
@@ -44,6 +44,7 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - [Software engineering, IT, and SRE agents](#software-engineering-it-and-sre-agents)
 - [Security and SOC agents](#security-and-soc-agents)
 - [Healthcare admin and clinical operations agents](#healthcare-admin-and-clinical-operations-agents)
+- [Open source and self-hosted AI employees](#open-source-and-self-hosted-ai-employees)
 - [Data](#data)
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
@@ -61,8 +62,9 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - Software engineering, IT, and SRE agents: 12
 - Security and SOC agents: 5
 - Healthcare admin and clinical operations agents: 5
+- Open source and self-hosted AI employees: 1
 
-Total: 101
+Total: 102
 
 ## Horizontal AI workforce and automation platforms
 
@@ -214,6 +216,12 @@ Total: 101
 | 99 | Hyro | Healthcare AI agents for call centers, scheduling, patient access, and routing. | https://www.hyro.ai/ |
 | 100 | Thoughtful AI | Healthcare revenue-cycle AI agents for complex RCM tasks. | https://www.thoughtful.ai/ |
 | 101 | Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
+
+## Open source and self-hosted AI employees
+
+| # | Company | AI employee angle | Link |
+|---:|---|---|---|
+| 102 | AI Employees (Reinventing.AI) | Eight open source AI Employees under the MIT license: 60 scheduled routines covering GTM, SEO, web, social media, ads, sales, customer support and chief of staff, installed on the desktop AI agent you already use and run on your own machine. | https://github.com/markfulton/ai-employees |
 
 <!-- LISTING:END -->
 
