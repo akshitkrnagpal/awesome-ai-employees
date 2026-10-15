@@ -6,7 +6,7 @@ Curated list of companies selling **AI employees**, **digital workers**, **role-
 
 The focus is on products that are positioned as doing a recurring job or business function, not merely providing a generic chatbot, model API, or one-off AI feature.
 
-Last updated: 2026-05-20  
+Last updated: 2026-10-15  
 Companies tracked: 124  
 Categories: 10
 
