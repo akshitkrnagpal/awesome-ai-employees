@@ -7,8 +7,8 @@ Curated list of companies selling **AI employees**, **digital workers**, **role-
 The focus is on products that are positioned as doing a recurring job or business function, not merely providing a generic chatbot, model API, or one-off AI feature.
 
 Last updated: 2026-10-15  
-Companies tracked: 124  
-Categories: 10
+Companies tracked: 136  
+Categories: 14
 
 ## Curation Criteria
 
@@ -44,6 +44,10 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - [Software engineering, IT, and SRE agents](#software-engineering-it-and-sre-agents)
 - [Security and SOC agents](#security-and-soc-agents)
 - [Healthcare admin and clinical operations agents](#healthcare-admin-and-clinical-operations-agents)
+- [Logistics and supply-chain agents](#logistics-and-supply-chain-agents)
+- [Real estate and property operations agents](#real-estate-and-property-operations-agents)
+- [Insurance operations agents](#insurance-operations-agents)
+- [Procurement and supplier operations agents](#procurement-and-supplier-operations-agents)
 - [Data](#data)
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
@@ -61,8 +65,12 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - Software engineering, IT, and SRE agents: 15
 - Security and SOC agents: 6
 - Healthcare admin and clinical operations agents: 6
+- Logistics and supply-chain agents: 3
+- Real estate and property operations agents: 3
+- Insurance operations agents: 3
+- Procurement and supplier operations agents: 3
 
-Total: 124
+Total: 136
 
 ## Horizontal AI workforce and automation platforms
 
@@ -237,6 +245,38 @@ Total: 124
 | 122 | Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
 | 123 | Assort Health | Healthcare AI agents for patient calls, scheduling, intake, referrals, and billing. | https://www.assorthealth.com/platform |
 | 124 | Notable | AI agent workforce for patient access, revenue cycle, and care operations. | https://www.notablehealth.com/ai-agent-workforce/overview |
+
+## Logistics and supply-chain agents
+
+| # | Company | AI employee angle | Link |
+|---:|---|---|---|
+| 125 | Augment | Augie, an AI logistics teammate for freight operations from order entry through payment. | https://www.goaugment.com/ |
+| 126 | HappyRobot | AI logistics workers for load booking, rate negotiation, shipment tracking, and documents. | https://www.happyrobot.ai/solutions/industries/logistics-providers |
+| 127 | Raft | AI agents for freight forwarding, customs preparation, shipment operations, and invoices. | https://raft.ai/ |
+
+## Real estate and property operations agents
+
+| # | Company | AI employee angle | Link |
+|---:|---|---|---|
+| 128 | EliseAI | AI property operations agents for leasing, resident communications, maintenance, and collections. | https://eliseai.com/platform-overview |
+| 129 | Funnel | Fenix, an AI teammate for leasing, resident requests, delinquency, and renewals. | https://funnelleasing.com/products |
+| 130 | Structurely | AI agents for real estate lead engagement, qualification, follow-up, and appointment booking. | https://www.structurely.com/use-cases |
+
+## Insurance operations agents
+
+| # | Company | AI employee angle | Link |
+|---:|---|---|---|
+| 131 | FurtherAI | AI insurance teammates for underwriting review, policy comparison, audits, and claims workflows. | https://www.furtherai.com/ |
+| 132 | Liberate | Insurance AI agents for claims intake, policy servicing, sales, and customer communications. | https://www.liberate.ai/platform |
+| 133 | Sixfold | AI underwriting agents for submission review, risk assessment, and case recommendations. | https://www.sixfold.ai/ |
+
+## Procurement and supplier operations agents
+
+| # | Company | AI employee angle | Link |
+|---:|---|---|---|
+| 134 | Omnea | Procurement AI agents for intake, reviews, approvals, supplier risk, and purchasing workflows. | https://www.omnea.co/ |
+| 135 | Pactum | Digital procurement workers for purchase intake, policy checks, sourcing, and supplier negotiations. | https://pactum.com/indirect-procurement |
+| 136 | Zip | AI procurement agents for purchase requests, approvals, vendor coordination, and contracts. | https://zip.com/capabilities/superagents |
 
 <!-- LISTING:END -->
 

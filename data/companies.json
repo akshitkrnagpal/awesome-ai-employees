@@ -866,5 +866,89 @@
     "company": "Notable",
     "ai_employee_angle": "AI agent workforce for patient access, revenue cycle, and care operations.",
     "link": "https://www.notablehealth.com/ai-agent-workforce/overview"
+  },
+  {
+    "rank": 125,
+    "category": "Logistics and supply-chain agents",
+    "company": "Augment",
+    "ai_employee_angle": "Augie, an AI logistics teammate for freight operations from order entry through payment.",
+    "link": "https://www.goaugment.com/"
+  },
+  {
+    "rank": 126,
+    "category": "Logistics and supply-chain agents",
+    "company": "HappyRobot",
+    "ai_employee_angle": "AI logistics workers for load booking, rate negotiation, shipment tracking, and documents.",
+    "link": "https://www.happyrobot.ai/solutions/industries/logistics-providers"
+  },
+  {
+    "rank": 127,
+    "category": "Logistics and supply-chain agents",
+    "company": "Raft",
+    "ai_employee_angle": "AI agents for freight forwarding, customs preparation, shipment operations, and invoices.",
+    "link": "https://raft.ai/"
+  },
+  {
+    "rank": 128,
+    "category": "Real estate and property operations agents",
+    "company": "EliseAI",
+    "ai_employee_angle": "AI property operations agents for leasing, resident communications, maintenance, and collections.",
+    "link": "https://eliseai.com/platform-overview"
+  },
+  {
+    "rank": 129,
+    "category": "Real estate and property operations agents",
+    "company": "Funnel",
+    "ai_employee_angle": "Fenix, an AI teammate for leasing, resident requests, delinquency, and renewals.",
+    "link": "https://funnelleasing.com/products"
+  },
+  {
+    "rank": 130,
+    "category": "Real estate and property operations agents",
+    "company": "Structurely",
+    "ai_employee_angle": "AI agents for real estate lead engagement, qualification, follow-up, and appointment booking.",
+    "link": "https://www.structurely.com/use-cases"
+  },
+  {
+    "rank": 131,
+    "category": "Insurance operations agents",
+    "company": "FurtherAI",
+    "ai_employee_angle": "AI insurance teammates for underwriting review, policy comparison, audits, and claims workflows.",
+    "link": "https://www.furtherai.com/"
+  },
+  {
+    "rank": 132,
+    "category": "Insurance operations agents",
+    "company": "Liberate",
+    "ai_employee_angle": "Insurance AI agents for claims intake, policy servicing, sales, and customer communications.",
+    "link": "https://www.liberate.ai/platform"
+  },
+  {
+    "rank": 133,
+    "category": "Insurance operations agents",
+    "company": "Sixfold",
+    "ai_employee_angle": "AI underwriting agents for submission review, risk assessment, and case recommendations.",
+    "link": "https://www.sixfold.ai/"
+  },
+  {
+    "rank": 134,
+    "category": "Procurement and supplier operations agents",
+    "company": "Omnea",
+    "ai_employee_angle": "Procurement AI agents for intake, reviews, approvals, supplier risk, and purchasing workflows.",
+    "link": "https://www.omnea.co/"
+  },
+  {
+    "rank": 135,
+    "category": "Procurement and supplier operations agents",
+    "company": "Pactum",
+    "ai_employee_angle": "Digital procurement workers for purchase intake, policy checks, sourcing, and supplier negotiations.",
+    "link": "https://pactum.com/indirect-procurement"
+  },
+  {
+    "rank": 136,
+    "category": "Procurement and supplier operations agents",
+    "company": "Zip",
+    "ai_employee_angle": "AI procurement agents for purchase requests, approvals, vendor coordination, and contracts.",
+    "link": "https://zip.com/capabilities/superagents"
   }
 ]
