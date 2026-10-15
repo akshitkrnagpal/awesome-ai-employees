@@ -7,7 +7,7 @@ Curated list of companies selling **AI employees**, **digital workers**, **role-
 The focus is on products that are positioned as doing a recurring job or business function, not merely providing a generic chatbot, model API, or one-off AI feature.
 
 Last updated: 2026-05-20  
-Companies tracked: 104  
+Companies tracked: 105  
 Categories: 10
 
 ## Curation Criteria
@@ -53,7 +53,7 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 
 - Horizontal AI workforce and automation platforms: 13
 - Sales, SDR, and revenue agents: 12
-- Marketing, growth, and AI CMO agents: 12
+- Marketing, growth, and AI CMO agents: 13
 - Customer support, CX, and ecommerce agents: 15
 - Recruiting and HR agents: 10
 - Finance, accounting, and back-office agents: 10
@@ -62,7 +62,7 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - Security and SOC agents: 5
 - Healthcare admin and clinical operations agents: 5
 
-Total: 104
+Total: 105
 
 ## Horizontal AI workforce and automation platforms
 
@@ -115,108 +115,109 @@ Total: 104
 | 35 | Copy.ai | GTM AI platform with agents for sales and marketing workflows. | https://www.copy.ai/ |
 | 36 | AirOps | AI agents and workflows for SEO, content, and growth operations. | https://www.airops.com/ |
 | 37 | Omneky | AI agents for ad creative generation, testing, and campaign optimization. | https://www.omneky.com/ |
+| 38 | Teamday | AI marketing team: an AI CMO sets one measurable goal and runs writer, SEO, and analytics agents; you approve every draft. | https://www.teamday.ai/ai-employees |
 
 ## Customer support, CX, and ecommerce agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 38 | Sierra | AI agents for customer experience across chat, SMS, email, voice, and more. | https://sierra.ai/ |
-| 39 | Decagon | AI customer concierge agents for chat, email, and voice workflows. | https://decagon.ai/ |
-| 40 | Ada | AI customer service agents that autonomously resolve support conversations. | https://www.ada.cx/ |
-| 41 | Intercom | Fin, an AI customer agent for service, sales, and ecommerce conversations. | https://www.intercom.com/fin |
-| 42 | Zendesk | AI agents for automated customer service resolution inside Zendesk. | https://www.zendesk.com/service/ai/ai-agents/ |
-| 43 | Forethought | Multi-agent customer support platform for resolution, classification, and copilot workflows. | https://forethought.ai/ |
-| 44 | Maven AGI | Enterprise AI agent platform for support and customer experience. | https://www.mavenagi.com/ |
-| 45 | Parloa | AI agents for contact-center voice and chat automation. | https://www.parloa.com/ |
-| 46 | PolyAI | Voice AI agents for enterprise customer service calls. | https://poly.ai/ |
-| 47 | Cognigy | AI agents for enterprise contact centers and customer service automation. | https://www.cognigy.com/ |
-| 48 | Kore.ai | AI agents and virtual assistants for customer and employee service. | https://kore.ai/ |
-| 49 | Yellow.ai | AI agents for customer service, employee service, and contact-center automation. | https://yellow.ai/ |
-| 50 | Gorgias | AI Agent for ecommerce customer support automation. | https://www.gorgias.com/product/ai-agent |
-| 51 | Siena AI | Autonomous customer service agents for commerce brands. | https://www.siena.cx/ |
-| 52 | Workforce Wave | AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses. | https://www.workforcewave.com/ |
+| 39 | Sierra | AI agents for customer experience across chat, SMS, email, voice, and more. | https://sierra.ai/ |
+| 40 | Decagon | AI customer concierge agents for chat, email, and voice workflows. | https://decagon.ai/ |
+| 41 | Ada | AI customer service agents that autonomously resolve support conversations. | https://www.ada.cx/ |
+| 42 | Intercom | Fin, an AI customer agent for service, sales, and ecommerce conversations. | https://www.intercom.com/fin |
+| 43 | Zendesk | AI agents for automated customer service resolution inside Zendesk. | https://www.zendesk.com/service/ai/ai-agents/ |
+| 44 | Forethought | Multi-agent customer support platform for resolution, classification, and copilot workflows. | https://forethought.ai/ |
+| 45 | Maven AGI | Enterprise AI agent platform for support and customer experience. | https://www.mavenagi.com/ |
+| 46 | Parloa | AI agents for contact-center voice and chat automation. | https://www.parloa.com/ |
+| 47 | PolyAI | Voice AI agents for enterprise customer service calls. | https://poly.ai/ |
+| 48 | Cognigy | AI agents for enterprise contact centers and customer service automation. | https://www.cognigy.com/ |
+| 49 | Kore.ai | AI agents and virtual assistants for customer and employee service. | https://kore.ai/ |
+| 50 | Yellow.ai | AI agents for customer service, employee service, and contact-center automation. | https://yellow.ai/ |
+| 51 | Gorgias | AI Agent for ecommerce customer support automation. | https://www.gorgias.com/product/ai-agent |
+| 52 | Siena AI | Autonomous customer service agents for commerce brands. | https://www.siena.cx/ |
+| 53 | Workforce Wave | AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses. | https://www.workforcewave.com/ |
 
 ## Recruiting and HR agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 53 | Moonhub | AI recruiting agent for sourcing, scoring, outreach, and candidate engagement. | https://www.moonhub.ai/ |
-| 54 | ConverzAI | AI recruiter and conversational recruiting automation. | https://www.converzai.com/ |
-| 55 | Paradox | Olivia, a conversational AI assistant for high-volume hiring workflows. | https://www.paradox.ai/ |
-| 56 | Belris | Autonomous AI recruiter for job analysis, candidate matching, outreach, and scheduling. | https://mybelris.com/ |
-| 57 | Placewise AI | Autonomous AI recruiter for screening and first-round hiring workflows. | https://www.placewise.ai/ |
-| 58 | Renate | Autonomous AI recruiter for sourcing, resume screening, voice interviews, and shortlists. | https://renate.in/ |
-| 59 | Shift | Anna, an AI recruiting agent for sourcing, outreach, interview support, and scoring. | https://www.tryshift.ai/ |
-| 60 | AiTento | AyeBo, a multi-agent AI recruiter for sourcing, screening, and hiring orchestration. | https://aitento.com/ |
-| 61 | Adison.ai | AI recruitment team with agents for sourcing, selection, and candidate matching. | https://www.adison.ai/ |
-| 62 | Fountain | AI Recruiter for frontline and high-volume hiring. | https://www.fountain.com/airecruiter |
+| 54 | Moonhub | AI recruiting agent for sourcing, scoring, outreach, and candidate engagement. | https://www.moonhub.ai/ |
+| 55 | ConverzAI | AI recruiter and conversational recruiting automation. | https://www.converzai.com/ |
+| 56 | Paradox | Olivia, a conversational AI assistant for high-volume hiring workflows. | https://www.paradox.ai/ |
+| 57 | Belris | Autonomous AI recruiter for job analysis, candidate matching, outreach, and scheduling. | https://mybelris.com/ |
+| 58 | Placewise AI | Autonomous AI recruiter for screening and first-round hiring workflows. | https://www.placewise.ai/ |
+| 59 | Renate | Autonomous AI recruiter for sourcing, resume screening, voice interviews, and shortlists. | https://renate.in/ |
+| 60 | Shift | Anna, an AI recruiting agent for sourcing, outreach, interview support, and scoring. | https://www.tryshift.ai/ |
+| 61 | AiTento | AyeBo, a multi-agent AI recruiter for sourcing, screening, and hiring orchestration. | https://aitento.com/ |
+| 62 | Adison.ai | AI recruitment team with agents for sourcing, selection, and candidate matching. | https://www.adison.ai/ |
+| 63 | Fountain | AI Recruiter for frontline and high-volume hiring. | https://www.fountain.com/airecruiter |
 
 ## Finance, accounting, and back-office agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 63 | Basis | AI agents for accounting firms, including reconciliations, journal entries, and summaries. | https://www.trybasis.co/ |
-| 64 | Numeric | Accounting AI for close management, variance analysis, and accounting workflows. | https://www.numeric.io/ |
-| 65 | Vic.ai | Agentic finance partners and autonomous accounts payable workflows. | https://www.vic.ai/ |
-| 66 | Auditoria | AI-enabled finance agents for AR, AP, collections, and finance operations. | https://www.auditoria.ai/ |
-| 67 | Digits | AI accounting agents built on an autonomous general ledger. | https://digits.com/ |
-| 68 | Nominal | Agentic AI platform that runs accounting workflows. | https://nominal.so/ |
-| 69 | Ledgent AI | Autonomous finance agents for AP, AR, close, and finance operations. | https://www.ledgent.ai/ |
-| 70 | ProcIndex | AI accounting team for AP, AR, reconciliation, close, and vendor workflows. | https://procindex.com/ |
-| 71 | Finlessly | Autonomous CFO agent for audit, accounting automation, and finance analysis. | https://www.finlessly.ai/ |
-| 72 | Synthetic | AI bookkeeping agent for startup accounting workflows. | https://synthetic.ai/ |
+| 64 | Basis | AI agents for accounting firms, including reconciliations, journal entries, and summaries. | https://www.trybasis.co/ |
+| 65 | Numeric | Accounting AI for close management, variance analysis, and accounting workflows. | https://www.numeric.io/ |
+| 66 | Vic.ai | Agentic finance partners and autonomous accounts payable workflows. | https://www.vic.ai/ |
+| 67 | Auditoria | AI-enabled finance agents for AR, AP, collections, and finance operations. | https://www.auditoria.ai/ |
+| 68 | Digits | AI accounting agents built on an autonomous general ledger. | https://digits.com/ |
+| 69 | Nominal | Agentic AI platform that runs accounting workflows. | https://nominal.so/ |
+| 70 | Ledgent AI | Autonomous finance agents for AP, AR, close, and finance operations. | https://www.ledgent.ai/ |
+| 71 | ProcIndex | AI accounting team for AP, AR, reconciliation, close, and vendor workflows. | https://procindex.com/ |
+| 72 | Finlessly | Autonomous CFO agent for audit, accounting automation, and finance analysis. | https://www.finlessly.ai/ |
+| 73 | Synthetic | AI bookkeeping agent for startup accounting workflows. | https://synthetic.ai/ |
 
 ## Legal and compliance agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 73 | Harvey | Legal AI agents for research, drafting, analysis, and practice-specific workflows. | https://www.harvey.ai/agents |
-| 74 | Legora | Collaborative legal AI platform with agentic workflows for lawyers. | https://legora.com/ |
-| 75 | Spellbook | Legal AI agent for contract drafting, redlining, and multi-document review. | https://spellbook.com/ |
-| 76 | Robin AI | Contract AI assistant for legal teams and contract review workflows. | https://www.robinai.com/ |
-| 77 | Thomson Reuters | CoCounsel, legal AI for research, drafting, review, and professional workflows. | https://legal.thomsonreuters.com/en/products/cocounsel |
-| 78 | LexisNexis | Lexis+ AI for legal research, drafting, and legal workflow assistance. | https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page |
-| 79 | Luminance | Legal AI agents for contract review, negotiation, and legal process automation. | https://www.luminance.com/ |
-| 80 | Evisort | Contract AI for legal, procurement, and contract operations. | https://www.evisort.com/ |
-| 81 | Ironclad | AI-powered contract lifecycle management and legal workflow automation. | https://ironcladapp.com/ |
-| 82 | Norm Ai | Legal and compliance AI agents that encode laws, policies, and regulatory judgment. | https://www.norm.ai/ |
+| 74 | Harvey | Legal AI agents for research, drafting, analysis, and practice-specific workflows. | https://www.harvey.ai/agents |
+| 75 | Legora | Collaborative legal AI platform with agentic workflows for lawyers. | https://legora.com/ |
+| 76 | Spellbook | Legal AI agent for contract drafting, redlining, and multi-document review. | https://spellbook.com/ |
+| 77 | Robin AI | Contract AI assistant for legal teams and contract review workflows. | https://www.robinai.com/ |
+| 78 | Thomson Reuters | CoCounsel, legal AI for research, drafting, review, and professional workflows. | https://legal.thomsonreuters.com/en/products/cocounsel |
+| 79 | LexisNexis | Lexis+ AI for legal research, drafting, and legal workflow assistance. | https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page |
+| 80 | Luminance | Legal AI agents for contract review, negotiation, and legal process automation. | https://www.luminance.com/ |
+| 81 | Evisort | Contract AI for legal, procurement, and contract operations. | https://www.evisort.com/ |
+| 82 | Ironclad | AI-powered contract lifecycle management and legal workflow automation. | https://ironcladapp.com/ |
+| 83 | Norm Ai | Legal and compliance AI agents that encode laws, policies, and regulatory judgment. | https://www.norm.ai/ |
 
 ## Software engineering, IT, and SRE agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 83 | Cognition | Devin, an AI software engineer for coding, maintenance, migration, and incident tasks. | https://devin.ai/ |
-| 84 | Factory | Droids, AI software-engineering agents for SDLC tasks. | https://www.factory.ai/ |
-| 85 | Cosine | Genie, an AI software engineering agent for planning, coding, testing, and collaboration. | https://cosine.sh/ |
-| 86 | Cursor | Agentic coding environment for software development tasks. | https://cursor.com/ |
-| 87 | Replit | Replit Agent for building and modifying software from natural-language requests. | https://replit.com/agent |
-| 88 | Lovable | AI software builder that turns prompts into applications. | https://lovable.dev/ |
-| 89 | StackBlitz | Bolt.new, an AI app-building agent in the browser. | https://bolt.new/ |
-| 90 | Vercel | v0, an AI UI and app generation product for frontend development. | https://v0.dev/ |
-| 91 | GitHub | Copilot coding agent for issue-to-PR software engineering work. | https://github.com/features/copilot |
-| 92 | CodeRabbit | AI code review agent for pull requests, IDEs, and CLI workflows. | https://www.coderabbit.ai/ |
-| 93 | Ciroos | AI SRE teammate for incident investigation, anomaly analysis, and autonomous operations. | https://ciroos.ai/ |
-| 94 | Resolve AI | AI SRE for alert triage, root-cause analysis, and incident investigation. | https://resolve.ai/product/ai-sre |
+| 84 | Cognition | Devin, an AI software engineer for coding, maintenance, migration, and incident tasks. | https://devin.ai/ |
+| 85 | Factory | Droids, AI software-engineering agents for SDLC tasks. | https://www.factory.ai/ |
+| 86 | Cosine | Genie, an AI software engineering agent for planning, coding, testing, and collaboration. | https://cosine.sh/ |
+| 87 | Cursor | Agentic coding environment for software development tasks. | https://cursor.com/ |
+| 88 | Replit | Replit Agent for building and modifying software from natural-language requests. | https://replit.com/agent |
+| 89 | Lovable | AI software builder that turns prompts into applications. | https://lovable.dev/ |
+| 90 | StackBlitz | Bolt.new, an AI app-building agent in the browser. | https://bolt.new/ |
+| 91 | Vercel | v0, an AI UI and app generation product for frontend development. | https://v0.dev/ |
+| 92 | GitHub | Copilot coding agent for issue-to-PR software engineering work. | https://github.com/features/copilot |
+| 93 | CodeRabbit | AI code review agent for pull requests, IDEs, and CLI workflows. | https://www.coderabbit.ai/ |
+| 94 | Ciroos | AI SRE teammate for incident investigation, anomaly analysis, and autonomous operations. | https://ciroos.ai/ |
+| 95 | Resolve AI | AI SRE for alert triage, root-cause analysis, and incident investigation. | https://resolve.ai/product/ai-sre |
 
 ## Security and SOC agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 95 | Dropzone AI | AI SOC analyst for autonomous alert investigation and threat hunting. | https://www.dropzone.ai/ |
-| 96 | Prophet Security | AI SOC analyst for security alert investigation and response. | https://www.prophetsecurity.ai/ai-soc-analyst |
-| 97 | Torq | Socrates, an agentic AI SOC analyst and orchestrator for SecOps workflows. | https://torq.io/socrates/ |
-| 98 | Radiant Security | AI SOC platform for threat detection, triage, and response. | https://radiantsecurity.ai/ |
-| 99 | XBOW | Autonomous AI penetration tester for offensive security work. | https://xbow.com/ |
+| 96 | Dropzone AI | AI SOC analyst for autonomous alert investigation and threat hunting. | https://www.dropzone.ai/ |
+| 97 | Prophet Security | AI SOC analyst for security alert investigation and response. | https://www.prophetsecurity.ai/ai-soc-analyst |
+| 98 | Torq | Socrates, an agentic AI SOC analyst and orchestrator for SecOps workflows. | https://torq.io/socrates/ |
+| 99 | Radiant Security | AI SOC platform for threat detection, triage, and response. | https://radiantsecurity.ai/ |
+| 100 | XBOW | Autonomous AI penetration tester for offensive security work. | https://xbow.com/ |
 
 ## Healthcare admin and clinical operations agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 100 | Hippocratic AI | Healthcare voice AI agents for non-diagnostic patient-facing workflows. | https://hippocraticai.com/ |
-| 101 | Infinitus | Healthcare AI agents for patient, provider, and payer communications. | https://www.infinitus.ai/ |
-| 102 | Hyro | Healthcare AI agents for call centers, scheduling, patient access, and routing. | https://www.hyro.ai/ |
-| 103 | Thoughtful AI | Healthcare revenue-cycle AI agents for complex RCM tasks. | https://www.thoughtful.ai/ |
-| 104 | Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
+| 101 | Hippocratic AI | Healthcare voice AI agents for non-diagnostic patient-facing workflows. | https://hippocraticai.com/ |
+| 102 | Infinitus | Healthcare AI agents for patient, provider, and payer communications. | https://www.infinitus.ai/ |
+| 103 | Hyro | Healthcare AI agents for call centers, scheduling, patient access, and routing. | https://www.hyro.ai/ |
+| 104 | Thoughtful AI | Healthcare revenue-cycle AI agents for complex RCM tasks. | https://www.thoughtful.ai/ |
+| 105 | Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
 
 <!-- LISTING:END -->
 
