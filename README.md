@@ -134,7 +134,7 @@ Total: 106
 | 49 | Cognigy | AI agents for enterprise contact centers and customer service automation. | https://www.cognigy.com/ |
 | 50 | Kore.ai | AI agents and virtual assistants for customer and employee service. | https://kore.ai/ |
 | 51 | Yellow.ai | AI agents for customer service, employee service, and contact-center automation. | https://yellow.ai/ |
-| 52 | Gorgias | AI Agent for ecommerce customer support automation. | https://www.gorgias.com/product/ai-agent |
+| 52 | Gorgias | AI Agent for ecommerce customer support automation. | https://www.gorgias.com/ai-agent |
 | 53 | Siena AI | Autonomous customer service agents for commerce brands. | https://www.siena.cx/ |
 | 54 | Workforce Wave | AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses. | https://www.workforcewave.com/ |
 
@@ -157,7 +157,7 @@ Total: 106
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 65 | Basis | AI agents for accounting firms, including reconciliations, journal entries, and summaries. | https://www.trybasis.co/ |
+| 65 | Basis | AI agents for accounting firms, including reconciliations, journal entries, and summaries. | https://www.getbasis.ai/ |
 | 66 | Numeric | Accounting AI for close management, variance analysis, and accounting workflows. | https://www.numeric.io/ |
 | 67 | Vic.ai | Agentic finance partners and autonomous accounts payable workflows. | https://www.vic.ai/ |
 | 68 | Auditoria | AI-enabled finance agents for AR, AP, collections, and finance operations. | https://www.auditoria.ai/ |
@@ -179,7 +179,7 @@ Total: 106
 | 79 | Thomson Reuters | CoCounsel, legal AI for research, drafting, review, and professional workflows. | https://legal.thomsonreuters.com/en/products/cocounsel |
 | 80 | LexisNexis | Lexis+ AI for legal research, drafting, and legal workflow assistance. | https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page |
 | 81 | Luminance | Legal AI agents for contract review, negotiation, and legal process automation. | https://www.luminance.com/ |
-| 82 | Evisort | Contract AI for legal, procurement, and contract operations. | https://www.evisort.com/ |
+| 82 | Workday | Contracts Agent (formerly Evisort) for contract review, negotiation, and lifecycle management. | https://www.workday.com/en-us/ai-agents/finance/contracts.html |
 | 83 | Ironclad | AI-powered contract lifecycle management and legal workflow automation. | https://ironcladapp.com/ |
 | 84 | Norm Ai | Legal and compliance AI agents that encode laws, policies, and regulatory judgment. | https://www.norm.ai/ |
 
