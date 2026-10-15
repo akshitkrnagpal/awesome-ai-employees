@@ -78,636 +78,643 @@
   },
   {
     "rank": 12,
+    "category": "Horizontal AI workforce and automation platforms",
+    "company": "Orkas",
+    "ai_employee_angle": "Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.",
+    "link": "https://github.com/Orkas-AI/Orkas"
+  },
+  {
+    "rank": 13,
     "category": "Sales, SDR, and revenue agents",
     "company": "Artisan",
     "ai_employee_angle": "Ava, an AI BDR / sales employee for outbound prospecting and meeting booking.",
     "link": "https://www.artisan.co/"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "category": "Sales, SDR, and revenue agents",
     "company": "11x",
     "ai_employee_angle": "Alice and Julian, digital workers for outbound sales and phone qualification.",
     "link": "https://www.11x.ai/"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "category": "Sales, SDR, and revenue agents",
     "company": "AiSDR",
     "ai_employee_angle": "AI SDR agent for prospecting, outreach, follow-up, and booked meetings.",
     "link": "https://aisdr.com/"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "category": "Sales, SDR, and revenue agents",
     "company": "Qualified",
     "ai_employee_angle": "Piper, an AI SDR for inbound pipeline across website and email.",
     "link": "https://www.qualified.com/"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "category": "Sales, SDR, and revenue agents",
     "company": "Regie.ai",
     "ai_employee_angle": "AI sales agents for prospecting, sequence generation, and rep workflows.",
     "link": "https://www.regie.ai/"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "category": "Sales, SDR, and revenue agents",
     "company": "Salesforge",
     "ai_employee_angle": "Agent Frank, an AI SDR for outbound campaigns and follow-ups.",
     "link": "https://www.salesforge.ai/agent/frank"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "category": "Sales, SDR, and revenue agents",
     "company": "Unify",
     "ai_employee_angle": "GTM agents that research accounts, qualify signals, and trigger outreach plays.",
     "link": "https://www.unifygtm.com/"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "category": "Sales, SDR, and revenue agents",
     "company": "Clay",
     "ai_employee_angle": "AI research and enrichment agents for outbound and GTM engineering workflows.",
     "link": "https://www.clay.com/"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "category": "Sales, SDR, and revenue agents",
     "company": "Persana AI",
     "ai_employee_angle": "AI sales prospecting agents for lead research, enrichment, and workflow automation.",
     "link": "https://persana.ai/"
   },
   {
-    "rank": 21,
+    "rank": 22,
     "category": "Sales, SDR, and revenue agents",
     "company": "Nooks",
     "ai_employee_angle": "AI sales assistant for dialing, prospecting, coaching, and sales workflow automation.",
     "link": "https://www.nooks.ai/"
   },
   {
-    "rank": 22,
+    "rank": 23,
     "category": "Sales, SDR, and revenue agents",
     "company": "SalesCloser AI",
     "ai_employee_angle": "Voice AI sales agents for discovery, qualification, and closing conversations.",
     "link": "https://salescloser.ai/"
   },
   {
-    "rank": 23,
+    "rank": 24,
     "category": "Sales, SDR, and revenue agents",
     "company": "Bland",
     "ai_employee_angle": "AI phone agents for sales calls, qualification, scheduling, and follow-up.",
     "link": "https://www.bland.ai/"
   },
   {
-    "rank": 24,
+    "rank": 25,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "AI Topia",
     "ai_employee_angle": "AI CMO platform and 45+ marketing agents for content and campaign execution.",
     "link": "https://getaitopia.io/"
   },
   {
-    "rank": 25,
+    "rank": 26,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "The AI CMO",
     "ai_employee_angle": "Autonomous marketing agent for strategy, content, publishing, and analytics.",
     "link": "https://theaicmo.com/"
   },
   {
-    "rank": 26,
+    "rank": 27,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Finsi",
     "ai_employee_angle": "AI CMO for ecommerce brands, focused on growth priorities and campaign execution.",
     "link": "https://www.finsi.ai/"
   },
   {
-    "rank": 27,
+    "rank": 28,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Tixi",
     "ai_employee_angle": "AI Chief Marketing Officer positioned as an always-on marketing leader.",
     "link": "https://www.tixi.ai/"
   },
   {
-    "rank": 28,
+    "rank": 29,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Maesto",
     "ai_employee_angle": "Autonomous marketing agents for B2C campaign planning, launch, and optimization.",
     "link": "https://maesto.ai/"
   },
   {
-    "rank": 29,
+    "rank": 30,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Prago",
     "ai_employee_angle": "Autonomous marketing agent that executes SEO, paid ads, social, content, and PR.",
     "link": "https://prago.io/"
   },
   {
-    "rank": 30,
+    "rank": 31,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Autom",
     "ai_employee_angle": "AI marketing agent for social content, ad creatives, campaigns, and brand growth.",
     "link": "https://useautom.ai/"
   },
   {
-    "rank": 31,
+    "rank": 32,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "OpenAnalyst",
     "ai_employee_angle": "Autonomous marketing agents for planning, creating, and optimizing campaigns.",
     "link": "https://www.openanalyst.com/"
   },
   {
-    "rank": 32,
+    "rank": 33,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Jasper",
     "ai_employee_angle": "Marketing AI agents that act as brand-aware marketing teammates.",
     "link": "https://www.jasper.ai/agents"
   },
   {
-    "rank": 33,
+    "rank": 34,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Copy.ai",
     "ai_employee_angle": "GTM AI platform with agents for sales and marketing workflows.",
     "link": "https://www.copy.ai/"
   },
   {
-    "rank": 34,
+    "rank": 35,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "AirOps",
     "ai_employee_angle": "AI agents and workflows for SEO, content, and growth operations.",
     "link": "https://www.airops.com/"
   },
   {
-    "rank": 35,
+    "rank": 36,
     "category": "Marketing, growth, and AI CMO agents",
     "company": "Omneky",
     "ai_employee_angle": "AI agents for ad creative generation, testing, and campaign optimization.",
     "link": "https://www.omneky.com/"
   },
   {
-    "rank": 36,
+    "rank": 37,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Sierra",
     "ai_employee_angle": "AI agents for customer experience across chat, SMS, email, voice, and more.",
     "link": "https://sierra.ai/"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Decagon",
     "ai_employee_angle": "AI customer concierge agents for chat, email, and voice workflows.",
     "link": "https://decagon.ai/"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Ada",
     "ai_employee_angle": "AI customer service agents that autonomously resolve support conversations.",
     "link": "https://www.ada.cx/"
   },
   {
-    "rank": 39,
+    "rank": 40,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Intercom",
     "ai_employee_angle": "Fin, an AI customer agent for service, sales, and ecommerce conversations.",
     "link": "https://www.intercom.com/fin"
   },
   {
-    "rank": 40,
+    "rank": 41,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Zendesk",
     "ai_employee_angle": "AI agents for automated customer service resolution inside Zendesk.",
     "link": "https://www.zendesk.com/service/ai/ai-agents/"
   },
   {
-    "rank": 41,
+    "rank": 42,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Forethought",
     "ai_employee_angle": "Multi-agent customer support platform for resolution, classification, and copilot workflows.",
     "link": "https://forethought.ai/"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Maven AGI",
     "ai_employee_angle": "Enterprise AI agent platform for support and customer experience.",
     "link": "https://www.mavenagi.com/"
   },
   {
-    "rank": 43,
+    "rank": 44,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Parloa",
     "ai_employee_angle": "AI agents for contact-center voice and chat automation.",
     "link": "https://www.parloa.com/"
   },
   {
-    "rank": 44,
+    "rank": 45,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "PolyAI",
     "ai_employee_angle": "Voice AI agents for enterprise customer service calls.",
     "link": "https://poly.ai/"
   },
   {
-    "rank": 45,
+    "rank": 46,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Cognigy",
     "ai_employee_angle": "AI agents for enterprise contact centers and customer service automation.",
     "link": "https://www.cognigy.com/"
   },
   {
-    "rank": 46,
+    "rank": 47,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Kore.ai",
     "ai_employee_angle": "AI agents and virtual assistants for customer and employee service.",
     "link": "https://kore.ai/"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Yellow.ai",
     "ai_employee_angle": "AI agents for customer service, employee service, and contact-center automation.",
     "link": "https://yellow.ai/"
   },
   {
-    "rank": 48,
+    "rank": 49,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Gorgias",
     "ai_employee_angle": "AI Agent for ecommerce customer support automation.",
     "link": "https://www.gorgias.com/product/ai-agent"
   },
   {
-    "rank": 49,
+    "rank": 50,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Siena AI",
     "ai_employee_angle": "Autonomous customer service agents for commerce brands.",
     "link": "https://www.siena.cx/"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "category": "Customer support, CX, and ecommerce agents",
     "company": "Workforce Wave",
     "ai_employee_angle": "AI voice receptionist that answers inbound calls 24/7, books appointments, and captures leads for small and mid-sized businesses.",
     "link": "https://www.workforcewave.com/"
   },
   {
-    "rank": 51,
+    "rank": 52,
     "category": "Recruiting and HR agents",
     "company": "Moonhub",
     "ai_employee_angle": "AI recruiting agent for sourcing, scoring, outreach, and candidate engagement.",
     "link": "https://www.moonhub.ai/"
   },
   {
-    "rank": 52,
+    "rank": 53,
     "category": "Recruiting and HR agents",
     "company": "ConverzAI",
     "ai_employee_angle": "AI recruiter and conversational recruiting automation.",
     "link": "https://www.converzai.com/"
   },
   {
-    "rank": 53,
+    "rank": 54,
     "category": "Recruiting and HR agents",
     "company": "Paradox",
     "ai_employee_angle": "Olivia, a conversational AI assistant for high-volume hiring workflows.",
     "link": "https://www.paradox.ai/"
   },
   {
-    "rank": 54,
+    "rank": 55,
     "category": "Recruiting and HR agents",
     "company": "Belris",
     "ai_employee_angle": "Autonomous AI recruiter for job analysis, candidate matching, outreach, and scheduling.",
     "link": "https://mybelris.com/"
   },
   {
-    "rank": 55,
+    "rank": 56,
     "category": "Recruiting and HR agents",
     "company": "Placewise AI",
     "ai_employee_angle": "Autonomous AI recruiter for screening and first-round hiring workflows.",
     "link": "https://www.placewise.ai/"
   },
   {
-    "rank": 56,
+    "rank": 57,
     "category": "Recruiting and HR agents",
     "company": "Renate",
     "ai_employee_angle": "Autonomous AI recruiter for sourcing, resume screening, voice interviews, and shortlists.",
     "link": "https://renate.in/"
   },
   {
-    "rank": 57,
+    "rank": 58,
     "category": "Recruiting and HR agents",
     "company": "Shift",
     "ai_employee_angle": "Anna, an AI recruiting agent for sourcing, outreach, interview support, and scoring.",
     "link": "https://www.tryshift.ai/"
   },
   {
-    "rank": 58,
+    "rank": 59,
     "category": "Recruiting and HR agents",
     "company": "AiTento",
     "ai_employee_angle": "AyeBo, a multi-agent AI recruiter for sourcing, screening, and hiring orchestration.",
     "link": "https://aitento.com/"
   },
   {
-    "rank": 59,
+    "rank": 60,
     "category": "Recruiting and HR agents",
     "company": "Adison.ai",
     "ai_employee_angle": "AI recruitment team with agents for sourcing, selection, and candidate matching.",
     "link": "https://www.adison.ai/"
   },
   {
-    "rank": 60,
+    "rank": 61,
     "category": "Recruiting and HR agents",
     "company": "Fountain",
     "ai_employee_angle": "AI Recruiter for frontline and high-volume hiring.",
     "link": "https://www.fountain.com/airecruiter"
   },
   {
-    "rank": 61,
+    "rank": 62,
     "category": "Finance, accounting, and back-office agents",
     "company": "Basis",
     "ai_employee_angle": "AI agents for accounting firms, including reconciliations, journal entries, and summaries.",
     "link": "https://www.trybasis.co/"
   },
   {
-    "rank": 62,
+    "rank": 63,
     "category": "Finance, accounting, and back-office agents",
     "company": "Numeric",
     "ai_employee_angle": "Accounting AI for close management, variance analysis, and accounting workflows.",
     "link": "https://www.numeric.io/"
   },
   {
-    "rank": 63,
+    "rank": 64,
     "category": "Finance, accounting, and back-office agents",
     "company": "Vic.ai",
     "ai_employee_angle": "Agentic finance partners and autonomous accounts payable workflows.",
     "link": "https://www.vic.ai/"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "category": "Finance, accounting, and back-office agents",
     "company": "Auditoria",
     "ai_employee_angle": "AI-enabled finance agents for AR, AP, collections, and finance operations.",
     "link": "https://www.auditoria.ai/"
   },
   {
-    "rank": 65,
+    "rank": 66,
     "category": "Finance, accounting, and back-office agents",
     "company": "Digits",
     "ai_employee_angle": "AI accounting agents built on an autonomous general ledger.",
     "link": "https://digits.com/"
   },
   {
-    "rank": 66,
+    "rank": 67,
     "category": "Finance, accounting, and back-office agents",
     "company": "Nominal",
     "ai_employee_angle": "Agentic AI platform that runs accounting workflows.",
     "link": "https://nominal.so/"
   },
   {
-    "rank": 67,
+    "rank": 68,
     "category": "Finance, accounting, and back-office agents",
     "company": "Ledgent AI",
     "ai_employee_angle": "Autonomous finance agents for AP, AR, close, and finance operations.",
     "link": "https://www.ledgent.ai/"
   },
   {
-    "rank": 68,
+    "rank": 69,
     "category": "Finance, accounting, and back-office agents",
     "company": "ProcIndex",
     "ai_employee_angle": "AI accounting team for AP, AR, reconciliation, close, and vendor workflows.",
     "link": "https://procindex.com/"
   },
   {
-    "rank": 69,
+    "rank": 70,
     "category": "Finance, accounting, and back-office agents",
     "company": "Finlessly",
     "ai_employee_angle": "Autonomous CFO agent for audit, accounting automation, and finance analysis.",
     "link": "https://www.finlessly.ai/"
   },
   {
-    "rank": 70,
+    "rank": 71,
     "category": "Finance, accounting, and back-office agents",
     "company": "Synthetic",
     "ai_employee_angle": "AI bookkeeping agent for startup accounting workflows.",
     "link": "https://synthetic.ai/"
   },
   {
-    "rank": 71,
+    "rank": 72,
     "category": "Legal and compliance agents",
     "company": "Harvey",
     "ai_employee_angle": "Legal AI agents for research, drafting, analysis, and practice-specific workflows.",
     "link": "https://www.harvey.ai/agents"
   },
   {
-    "rank": 72,
+    "rank": 73,
     "category": "Legal and compliance agents",
     "company": "Legora",
     "ai_employee_angle": "Collaborative legal AI platform with agentic workflows for lawyers.",
     "link": "https://legora.com/"
   },
   {
-    "rank": 73,
+    "rank": 74,
     "category": "Legal and compliance agents",
     "company": "Spellbook",
     "ai_employee_angle": "Legal AI agent for contract drafting, redlining, and multi-document review.",
     "link": "https://spellbook.com/"
   },
   {
-    "rank": 74,
+    "rank": 75,
     "category": "Legal and compliance agents",
     "company": "Robin AI",
     "ai_employee_angle": "Contract AI assistant for legal teams and contract review workflows.",
     "link": "https://www.robinai.com/"
   },
   {
-    "rank": 75,
+    "rank": 76,
     "category": "Legal and compliance agents",
     "company": "Thomson Reuters",
     "ai_employee_angle": "CoCounsel, legal AI for research, drafting, review, and professional workflows.",
     "link": "https://legal.thomsonreuters.com/en/products/cocounsel"
   },
   {
-    "rank": 76,
+    "rank": 77,
     "category": "Legal and compliance agents",
     "company": "LexisNexis",
     "ai_employee_angle": "Lexis+ AI for legal research, drafting, and legal workflow assistance.",
     "link": "https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page"
   },
   {
-    "rank": 77,
+    "rank": 78,
     "category": "Legal and compliance agents",
     "company": "Luminance",
     "ai_employee_angle": "Legal AI agents for contract review, negotiation, and legal process automation.",
     "link": "https://www.luminance.com/"
   },
   {
-    "rank": 78,
+    "rank": 79,
     "category": "Legal and compliance agents",
     "company": "Evisort",
     "ai_employee_angle": "Contract AI for legal, procurement, and contract operations.",
     "link": "https://www.evisort.com/"
   },
   {
-    "rank": 79,
+    "rank": 80,
     "category": "Legal and compliance agents",
     "company": "Ironclad",
     "ai_employee_angle": "AI-powered contract lifecycle management and legal workflow automation.",
     "link": "https://ironcladapp.com/"
   },
   {
-    "rank": 80,
+    "rank": 81,
     "category": "Legal and compliance agents",
     "company": "Norm Ai",
     "ai_employee_angle": "Legal and compliance AI agents that encode laws, policies, and regulatory judgment.",
     "link": "https://www.norm.ai/"
   },
   {
-    "rank": 81,
+    "rank": 82,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Cognition",
     "ai_employee_angle": "Devin, an AI software engineer for coding, maintenance, migration, and incident tasks.",
     "link": "https://devin.ai/"
   },
   {
-    "rank": 82,
+    "rank": 83,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Factory",
     "ai_employee_angle": "Droids, AI software-engineering agents for SDLC tasks.",
     "link": "https://www.factory.ai/"
   },
   {
-    "rank": 83,
+    "rank": 84,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Cosine",
     "ai_employee_angle": "Genie, an AI software engineering agent for planning, coding, testing, and collaboration.",
     "link": "https://cosine.sh/"
   },
   {
-    "rank": 84,
+    "rank": 85,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Cursor",
     "ai_employee_angle": "Agentic coding environment for software development tasks.",
     "link": "https://cursor.com/"
   },
   {
-    "rank": 85,
+    "rank": 86,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Replit",
     "ai_employee_angle": "Replit Agent for building and modifying software from natural-language requests.",
     "link": "https://replit.com/agent"
   },
   {
-    "rank": 86,
+    "rank": 87,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Lovable",
     "ai_employee_angle": "AI software builder that turns prompts into applications.",
     "link": "https://lovable.dev/"
   },
   {
-    "rank": 87,
+    "rank": 88,
     "category": "Software engineering, IT, and SRE agents",
     "company": "StackBlitz",
     "ai_employee_angle": "Bolt.new, an AI app-building agent in the browser.",
     "link": "https://bolt.new/"
   },
   {
-    "rank": 88,
+    "rank": 89,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Vercel",
     "ai_employee_angle": "v0, an AI UI and app generation product for frontend development.",
     "link": "https://v0.dev/"
   },
   {
-    "rank": 89,
+    "rank": 90,
     "category": "Software engineering, IT, and SRE agents",
     "company": "GitHub",
     "ai_employee_angle": "Copilot coding agent for issue-to-PR software engineering work.",
     "link": "https://github.com/features/copilot"
   },
   {
-    "rank": 90,
+    "rank": 91,
     "category": "Software engineering, IT, and SRE agents",
     "company": "CodeRabbit",
     "ai_employee_angle": "AI code review agent for pull requests, IDEs, and CLI workflows.",
     "link": "https://www.coderabbit.ai/"
   },
   {
-    "rank": 91,
+    "rank": 92,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Ciroos",
     "ai_employee_angle": "AI SRE teammate for incident investigation, anomaly analysis, and autonomous operations.",
     "link": "https://ciroos.ai/"
   },
   {
-    "rank": 92,
+    "rank": 93,
     "category": "Software engineering, IT, and SRE agents",
     "company": "Resolve AI",
     "ai_employee_angle": "AI SRE for alert triage, root-cause analysis, and incident investigation.",
     "link": "https://resolve.ai/product/ai-sre"
   },
   {
-    "rank": 93,
+    "rank": 94,
     "category": "Security and SOC agents",
     "company": "Dropzone AI",
     "ai_employee_angle": "AI SOC analyst for autonomous alert investigation and threat hunting.",
     "link": "https://www.dropzone.ai/"
   },
   {
-    "rank": 94,
+    "rank": 95,
     "category": "Security and SOC agents",
     "company": "Prophet Security",
     "ai_employee_angle": "AI SOC analyst for security alert investigation and response.",
     "link": "https://www.prophetsecurity.ai/ai-soc-analyst"
   },
   {
-    "rank": 95,
+    "rank": 96,
     "category": "Security and SOC agents",
     "company": "Torq",
     "ai_employee_angle": "Socrates, an agentic AI SOC analyst and orchestrator for SecOps workflows.",
     "link": "https://torq.io/socrates/"
   },
   {
-    "rank": 96,
+    "rank": 97,
     "category": "Security and SOC agents",
     "company": "Radiant Security",
     "ai_employee_angle": "AI SOC platform for threat detection, triage, and response.",
     "link": "https://radiantsecurity.ai/"
   },
   {
-    "rank": 97,
+    "rank": 98,
     "category": "Security and SOC agents",
     "company": "XBOW",
     "ai_employee_angle": "Autonomous AI penetration tester for offensive security work.",
     "link": "https://xbow.com/"
   },
   {
-    "rank": 98,
+    "rank": 99,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Hippocratic AI",
     "ai_employee_angle": "Healthcare voice AI agents for non-diagnostic patient-facing workflows.",
     "link": "https://hippocraticai.com/"
   },
   {
-    "rank": 99,
+    "rank": 100,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Infinitus",
     "ai_employee_angle": "Healthcare AI agents for patient, provider, and payer communications.",
     "link": "https://www.infinitus.ai/"
   },
   {
-    "rank": 100,
+    "rank": 101,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Hyro",
     "ai_employee_angle": "Healthcare AI agents for call centers, scheduling, patient access, and routing.",
     "link": "https://www.hyro.ai/"
   },
   {
-    "rank": 101,
+    "rank": 102,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Thoughtful AI",
     "ai_employee_angle": "Healthcare revenue-cycle AI agents for complex RCM tasks.",
     "link": "https://www.thoughtful.ai/"
   },
   {
-    "rank": 102,
+    "rank": 103,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Tennr",
     "ai_employee_angle": "Healthcare AI agents for document, referral, and back-office workflows.",
