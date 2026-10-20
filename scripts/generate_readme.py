@@ -46,11 +46,10 @@ def read_icon_manifest() -> dict[str, dict[str, str]]:
     return json.loads(ICON_MANIFEST_PATH.read_text(encoding="utf-8"))
 
 
-def company_cell(company: str, icons: dict[str, dict[str, str]]) -> str:
-    name = markdown_cell(company)
+def icon_cell(company: str, icons: dict[str, dict[str, str]]) -> str:
     icon_path = icons.get(company, {}).get("path")
     if not icon_path:
-        return name
+        return ""
 
     path = Path(icon_path)
     if (
@@ -60,10 +59,10 @@ def company_cell(company: str, icons: dict[str, dict[str, str]]) -> str:
     ):
         raise ValueError(f"Icon for {company!r} must be in assets/company-icons/")
     if not (ROOT / path).is_file():
-        return name
+        return ""
 
     source = html.escape(quote(path.as_posix(), safe="/"), quote=True)
-    return f'<img src="{source}" width="20" height="20" alt=""> {name}'
+    return f'<img src="{source}" width="20" height="20" align="middle" alt="">'
 
 
 def validate_url(value: str, line_number: int) -> None:
@@ -210,15 +209,16 @@ def generated_listing(
             [
                 f"## {category}",
                 "",
-                "| # | Company | AI employee angle | Link |",
-                "|---:|---|---|---|",
+                "| # | Icon | Company | AI employee angle | Link |",
+                "|---:|:---:|---|---|---|",
             ]
         )
         for row in category_rows:
             lines.append(
-                "| {rank} | {company} | {angle} | {link} |".format(
+                "| {rank} | {icon} | {company} | {angle} | {link} |".format(
                     rank=markdown_cell(row["rank"]),
-                    company=company_cell(row["company"], icons),
+                    icon=icon_cell(row["company"], icons),
+                    company=markdown_cell(row["company"]),
                     angle=markdown_cell(row["ai_employee_angle"]),
                     link=markdown_cell(row["link"]),
                 )

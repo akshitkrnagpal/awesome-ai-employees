@@ -14,7 +14,7 @@ Update flow:
 3. Run `make check`.
 4. Commit the CSV and generated files together.
 
-README company names optionally include icons from `../assets/company-icons/manifest.json`.
+README tables optionally include company icons from `../assets/company-icons/manifest.json`.
 Run `make icons` to refresh the cached images and regenerate the README, or `make generate`
 to reuse the existing cache without network access. Companies without a usable cached icon
 are rendered as plain-text names. The CSV schema and JSON company data do not include icon fields.
