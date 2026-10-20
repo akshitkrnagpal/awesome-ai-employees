@@ -18,10 +18,6 @@
     "kind": "initials",
     "reason": "Homepage unavailable (HTTPError)"
   },
-  "Adison.ai": {
-    "kind": "initials",
-    "reason": "Homepage unavailable (URLError)"
-  },
   "AiSDR": {
     "kind": "apple-touch-icon",
     "path": "assets/company-icons/aisdr.png",
@@ -90,10 +86,6 @@
     "kind": "favicon",
     "path": "assets/company-icons/beam-ai.png",
     "source": "https://framerusercontent.com/images/jCz7Cx9I8DkVHQUFK9yZTzru8k.png"
-  },
-  "Belris": {
-    "kind": "initials",
-    "reason": "Homepage unavailable (URLError)"
   },
   "Bland": {
     "kind": "apple-touch-icon",
@@ -219,10 +211,6 @@
     "kind": "favicon",
     "path": "assets/company-icons/factory.ico",
     "source": "https://factory.com/favicon.ico"
-  },
-  "Finlessly": {
-    "kind": "initials",
-    "reason": "No usable icon found"
   },
   "Finsi": {
     "kind": "apple-touch-icon",
@@ -433,11 +421,6 @@
     "path": "assets/company-icons/parloa.png",
     "source": "https://www.parloa.com/favicon/apple-touch-icon.png"
   },
-  "Persana AI": {
-    "kind": "favicon",
-    "path": "assets/company-icons/persana-ai.png",
-    "source": "https://framerusercontent.com/images/T5s8qrteJM9K2e7yEia7nvzHk.png"
-  },
   "Placewise AI": {
     "kind": "apple-touch-icon",
     "path": "assets/company-icons/placewise-ai.png",
@@ -487,10 +470,6 @@
     "path": "assets/company-icons/relevance-ai.png",
     "source": "https://cdn.relevanceai.com/images/favicon-256x256.png"
   },
-  "Renate": {
-    "kind": "initials",
-    "reason": "Homepage unavailable (HTTPError)"
-  },
   "Replit": {
     "kind": "apple-touch-icon",
     "path": "assets/company-icons/replit.png",
@@ -529,10 +508,6 @@
     "kind": "apple-touch-icon",
     "path": "assets/company-icons/sema4-ai.png",
     "source": "https://sema4.ai/wp-content/themes/sema4/assets/favicon/apple-touch-icon-sema4-ai.png"
-  },
-  "Shift": {
-    "kind": "initials",
-    "reason": "Homepage unavailable (URLError)"
   },
   "Siena AI": {
     "kind": "apple-touch-icon",
@@ -574,7 +549,7 @@
     "path": "assets/company-icons/stackblitz.png",
     "source": "https://bolt.new/static/apple-touch-icon.png"
   },
-  "Structurely": {
+  "Structurely / 21X": {
     "kind": "apple-touch-icon",
     "path": "assets/company-icons/structurely.png",
     "source": "https://www.structurely.com/apple-touch-icon.png"
