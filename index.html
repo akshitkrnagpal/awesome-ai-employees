@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Explore a curated directory of AI employees, digital workers, and role-based agents. Find an AI teammate for sales, engineering, support, and more."
+    />
+    <meta name="theme-color" content="#f7f9fc" />
+    <title>Awesome AI Employees — Find your next AI teammate</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/site.css" />
+    <script src="assets/site.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#directory">Skip to directory</a>
+    <header class="site-header wrap">
+      <a class="brand" href="./" aria-label="Awesome AI Employees home">
+        <img src="assets/favicon.svg" width="35" height="35" alt="" />
+        <span>Awesome <strong>AI Employees</strong></span>
+      </a>
+      <nav aria-label="Main navigation">
+        <a class="nav-about" href="#about">About the list</a>
+        <a
+          class="github-link"
+          href="https://github.com/akshitkrnagpal/awesome-ai-employees"
+          ><svg viewBox="0 0 24 24" aria-hidden="true">
+            <path
+              fill="currentColor"
+              d="M12 .9a11.1 11.1 0 0 0-3.5 21.6c.6.1.8-.2.8-.5v-2.1c-3.1.7-3.8-1.3-3.8-1.3-.5-1.3-1.2-1.6-1.2-1.6-1-.7.1-.7.1-.7 1.1.1 1.7 1.2 1.7 1.2 1 1.7 2.6 1.2 3.2.9.1-.7.4-1.2.7-1.5-2.5-.3-5.1-1.2-5.1-5.5 0-1.2.4-2.2 1.2-3-.1-.3-.5-1.4.1-3 0 0 1-.3 3.1 1.1a10.8 10.8 0 0 1 5.6 0c2.1-1.4 3.1-1.1 3.1-1.1.6 1.6.2 2.7.1 3 .8.8 1.2 1.8 1.2 3 0 4.3-2.6 5.2-5.1 5.5.4.4.8 1 .8 2.1V22c0 .3.2.6.8.5A11.1 11.1 0 0 0 12 .9Z"
+            /></svg
+          >View on GitHub<span aria-hidden="true">↗</span></a
+        >
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero wrap" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="community-note">
+            <span class="little-star" aria-hidden="true">✳</span> An open-source
+            field guide to AI at work
+          </p>
+          <h1 id="hero-title">Meet your next<br />AI teammate.</h1>
+          <p class="hero-description">
+            Discover AI employees that do the work.<br class="desktop-break" />
+            A curated directory of digital workers for every<br
+              class="desktop-break"
+            />
+            team, from sales to software engineering.
+          </p>
+          <a class="primary-button" href="#directory"
+            >Explore the directory <span aria-hidden="true">↓</span></a
+          >
+          <div class="hero-footnote">
+            <span class="avatar-stack" aria-hidden="true"
+              ><span>✳</span><span>↗</span><span>⌘</span></span
+            ><span>Community-curated. Open to everyone.</span>
+          </div>
+        </div>
+        <div class="landscape">
+          <div class="landscape-heading">
+            <h2>The AI employee landscape</h2>
+            <span><span data-company-count>—</span> companies</span>
+          </div>
+          <div
+            id="category-map"
+            class="category-map"
+            role="group"
+            aria-label="Browse companies by category"
+          ></div>
+          <p class="map-caption">
+            <span
+              ><span class="map-dot"></span> Each tile is a field of work</span
+            ><span>Pick one to explore <span aria-hidden="true">↙</span></span>
+          </p>
+        </div>
+      </section>
+
+      <div class="directory-background">
+        <section
+          class="directory wrap"
+          id="directory"
+          aria-labelledby="directory-title"
+        >
+          <div class="directory-heading">
+            <div>
+              <h2 id="directory-title">Find the right AI for the job.</h2>
+              <p>
+                <span data-company-count>—</span> companies.
+                <span id="category-count">—</span> categories. A world of
+                possibilities.
+              </p>
+            </div>
+            <a
+              class="contribute-link"
+              href="https://github.com/akshitkrnagpal/awesome-ai-employees/blob/main/CONTRIBUTING.md"
+              ><span aria-hidden="true">＋</span> Suggest a company</a
+            >
+          </div>
+          <div class="search-row">
+            <div class="search-box">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.7"
+                aria-hidden="true"
+              >
+                <circle cx="10.7" cy="10.7" r="6.7" />
+                <path d="m16 16 4.3 4.3" /></svg
+              ><label for="search" class="sr-only"
+                >Search companies, roles, or keywords</label
+              ><input
+                id="search"
+                type="search"
+                placeholder="Search companies, roles, or keywords…"
+                autocomplete="off"
+                spellcheck="false"
+              /><kbd aria-hidden="true">/</kbd>
+            </div>
+            <label class="sort-control" for="sort"
+              >Sort by
+              <select id="sort">
+                <option value="curated">Directory order</option>
+                <option value="az">Name: A–Z</option>
+                <option value="za">Name: Z–A</option>
+              </select></label
+            >
+          </div>
+          <div class="directory-layout">
+            <aside class="category-sidebar" aria-label="Filter by category">
+              <div class="sidebar-heading">
+                <h3>Categories</h3>
+                <span id="sidebar-category-count"></span>
+              </div>
+              <div id="category-filters"></div>
+              <div class="sidebar-note">
+                <span aria-hidden="true">✧</span>
+                <p>Real roles. Real workflows.<br />More than just chatbots.</p>
+              </div>
+            </aside>
+            <div class="directory-results">
+              <div class="mobile-filter">
+                <label for="mobile-category">Category</label
+                ><select id="mobile-category">
+                  <option value="">All categories</option>
+                </select>
+              </div>
+              <div class="results-bar">
+                <p id="result-count" role="status" aria-live="polite">
+                  Loading the directory…
+                </p>
+                <button id="clear-filters" class="text-button" hidden>
+                  Clear filters <span aria-hidden="true">×</span></button
+                ><span class="curation-badge" id="curation-badge"
+                  ><span aria-hidden="true">✓</span> Hand-curated</span
+                >
+              </div>
+              <div
+                id="company-grid"
+                class="company-grid"
+                aria-busy="true"
+              ></div>
+              <div class="empty-state" id="empty-state" hidden>
+                <span aria-hidden="true">⌕</span>
+                <h3>No teammates found</h3>
+                <p>Try a different keyword or explore another category.</p>
+                <button class="primary-button" id="reset-search">
+                  Reset search and filters
+                </button>
+              </div>
+              <div class="empty-state" id="error-state" hidden>
+                <h3>The directory couldn’t load</h3>
+                <p>Check your connection and try again.</p>
+                <button class="primary-button" id="retry-load">
+                  Try again
+                </button>
+              </div>
+              <div class="load-more-wrap">
+                <button id="load-more" class="load-more" hidden>
+                  Show more companies <span aria-hidden="true">↓</span>
+                </button>
+                <p id="shown-count"></p>
+              </div>
+              <noscript
+                ><p>
+                  Enable JavaScript to search and filter, or
+                  <a
+                    href="https://github.com/akshitkrnagpal/awesome-ai-employees#contents"
+                    >browse the full directory on GitHub</a
+                  >.
+                </p></noscript
+              >
+            </div>
+          </div>
+        </section>
+      </div>
+      <section class="about wrap" id="about" aria-labelledby="about-title">
+        <div class="about-symbol" aria-hidden="true">✳</div>
+        <div>
+          <h2 id="about-title">A directory built in the open.</h2>
+          <p>
+            We collect products that own a recurring job or workflow: AI
+            employees, digital workers, and role-based agents. Every listing
+            links to a public product page. Inclusion isn’t an endorsement.
+          </p>
+        </div>
+        <a
+          href="https://github.com/akshitkrnagpal/awesome-ai-employees/blob/main/CONTRIBUTING.md"
+          >Help grow the list <span aria-hidden="true">↗</span></a
+        >
+      </section>
+    </main>
+    <footer class="wrap">
+      <span>Awesome AI Employees</span
+      ><span>Made for the curious. Maintained by the community.</span
+      ><a
+        href="https://github.com/akshitkrnagpal/awesome-ai-employees/blob/main/LICENSE"
+        >CC BY 4.0 <span aria-hidden="true">↗</span></a
+      >
+    </footer>
+  </body>
+</html>
