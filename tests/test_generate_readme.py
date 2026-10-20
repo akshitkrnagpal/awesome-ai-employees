@@ -23,7 +23,7 @@ class ReadmeIconTests(unittest.TestCase):
         self.assertEqual(
             result,
             '<img src="assets/company-icons/acme.png" '
-            'width="20" height="20" align="absmiddle" alt=""> Acme',
+            'width="18" height="18" align="texttop" alt=""> Acme',
         )
 
     def test_missing_or_unavailable_icons_leave_plain_company_names(self):

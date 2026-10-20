@@ -63,7 +63,11 @@ def company_cell(company: str, icons: dict[str, dict[str, str]]) -> str:
         return name
 
     source = html.escape(quote(path.as_posix(), safe="/"), quote=True)
-    return f'<img src="{source}" width="20" height="20" align="absmiddle" alt=""> {name}'
+    # Match GitHub's text box instead of centering on the font's x-height.
+    return (
+        f'<img src="{source}" width="18" height="18" '
+        f'align="texttop" alt=""> {name}'
+    )
 
 
 def validate_url(value: str, line_number: int) -> None:
