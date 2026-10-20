@@ -6,18 +6,20 @@ from __future__ import annotations
 import argparse
 import csv
 import difflib
+import html
 import json
 import re
 import sys
 from collections import OrderedDict
 from pathlib import Path
-from urllib.parse import parse_qsl, urlparse
+from urllib.parse import parse_qsl, quote, urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
 README_PATH = ROOT / "README.md"
 CSV_PATH = ROOT / "data" / "companies.csv"
 JSON_PATH = ROOT / "data" / "companies.json"
+ICON_MANIFEST_PATH = ROOT / "assets" / "company-icons" / "manifest.json"
 
 GENERATED_START = "<!-- LISTING:START -->"
 GENERATED_END = "<!-- LISTING:END -->"
@@ -36,6 +38,36 @@ def markdown_anchor(heading: str) -> str:
 
 def markdown_cell(value: str) -> str:
     return " ".join(value.split()).replace("|", r"\|")
+
+
+def read_icon_manifest() -> dict[str, dict[str, str]]:
+    if not ICON_MANIFEST_PATH.exists():
+        return {}
+    return json.loads(ICON_MANIFEST_PATH.read_text(encoding="utf-8"))
+
+
+def company_cell(company: str, icons: dict[str, dict[str, str]]) -> str:
+    name = markdown_cell(company)
+    icon_path = icons.get(company, {}).get("path")
+    if not icon_path:
+        return name
+
+    path = Path(icon_path)
+    if (
+        path.is_absolute()
+        or ".." in path.parts
+        or path.parts[:2] != ("assets", "company-icons")
+    ):
+        raise ValueError(f"Icon for {company!r} must be in assets/company-icons/")
+    if not (ROOT / path).is_file():
+        return name
+
+    source = html.escape(quote(path.as_posix(), safe="/"), quote=True)
+    # Match GitHub's text box instead of centering on the font's x-height.
+    return (
+        f'<img src="{source}" width="18" height="18" '
+        f'align="texttop" alt=""> {name}'
+    )
 
 
 def validate_url(value: str, line_number: int) -> None:
@@ -144,6 +176,7 @@ def generated_contents(groups: OrderedDict[str, list[dict[str, str]]]) -> str:
     )
     lines.extend(
         [
+            "- [Website](#website)",
             "- [Data](#data)",
             "- [Contributing](#contributing)",
             "- [Roadmap](#roadmap)",
@@ -153,11 +186,16 @@ def generated_contents(groups: OrderedDict[str, list[dict[str, str]]]) -> str:
     return "\n".join(lines)
 
 
-def generated_listing(rows: list[dict[str, str]]) -> str:
+def generated_listing(
+    rows: list[dict[str, str]],
+    icons: dict[str, dict[str, str]] | None = None,
+) -> str:
+    if icons is None:
+        icons = read_icon_manifest()
     groups = category_groups(rows)
     lines = [
         GENERATED_START,
-        "<!-- This section is generated from data/companies.csv. Do not edit it by hand. -->",
+        "<!-- Generated from data/companies.csv and the optional company icon manifest. Do not edit by hand. -->",
         "",
         "## Contents",
         "",
@@ -184,7 +222,7 @@ def generated_listing(rows: list[dict[str, str]]) -> str:
             lines.append(
                 "| {rank} | {company} | {angle} | {link} |".format(
                     rank=markdown_cell(row["rank"]),
-                    company=markdown_cell(row["company"]),
+                    company=company_cell(row["company"], icons),
                     angle=markdown_cell(row["ai_employee_angle"]),
                     link=markdown_cell(row["link"]),
                 )
