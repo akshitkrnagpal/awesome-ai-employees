@@ -7,7 +7,7 @@ Curated list of companies selling **AI employees**, **digital workers**, **role-
 The focus is on products that are positioned as doing a recurring job or business function, not merely providing a generic chatbot, model API, or one-off AI feature.
 
 Last updated: 2026-10-20\
-Companies tracked: 131\
+Companies tracked: 132\
 Categories: 14
 
 ## Curation Criteria
@@ -63,7 +63,7 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - Recruiting and HR agents: 7
 - Finance, accounting, and back-office agents: 11
 - Legal and compliance agents: 12
-- Software engineering, IT, and SRE agents: 15
+- Software engineering, IT, and SRE agents: 16
 - Security and SOC agents: 6
 - Healthcare admin and clinical operations agents: 6
 - Logistics and supply-chain agents: 3
@@ -71,7 +71,7 @@ Suggestions are welcome through GitHub issues or pull requests. See [CONTRIBUTIN
 - Insurance operations agents: 3
 - Procurement and supplier operations agents: 3
 
-Total: 131
+Total: 132
 
 ## Horizontal AI workforce and automation platforms
 
@@ -220,59 +220,60 @@ Total: 131
 | 106 | <img src="assets/company-icons/augment-code.png" width="18" height="18" align="texttop" alt=""> Augment Code | Cloud coding agents for tickets, code reviews, security fixes, and incident investigation. | https://www.augmentcode.com/product/cloud-agents |
 | 107 | <img src="assets/company-icons/moveworks.png" width="18" height="18" align="texttop" alt=""> Moveworks | ServiceNow-owned AI agents for IT help desk requests and cross-system employee workflows. | https://www.moveworks.com/us/en/solutions/ai-help-desk |
 | 108 | OpenHands | Open-source software agents for issue resolution, code changes, CI repair, and maintenance. | https://www.openhands.dev/ |
+| 109 | Orbi | Open-source, self-hostable coding agent that takes labeled GitHub Issues through implementation, tests, a separate AI review, and merge. | https://orbi.build/ |
 
 ## Security and SOC agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 109 | <img src="assets/company-icons/dropzone-ai.png" width="18" height="18" align="texttop" alt=""> Dropzone AI | AI SOC analyst for autonomous alert investigation and threat hunting. | https://www.dropzone.ai/ |
-| 110 | <img src="assets/company-icons/prophet-security.png" width="18" height="18" align="texttop" alt=""> Prophet Security | AI SOC analyst for security alert investigation and response. | https://www.prophetsecurity.ai/ai-soc-analyst |
-| 111 | <img src="assets/company-icons/torq.png" width="18" height="18" align="texttop" alt=""> Torq | Socrates, an agentic AI SOC analyst and orchestrator for SecOps workflows. | https://torq.io/socrates/ |
-| 112 | <img src="assets/company-icons/xbow.png" width="18" height="18" align="texttop" alt=""> XBOW | Autonomous AI penetration tester for offensive security work. | https://xbow.com/ |
-| 113 | <img src="assets/company-icons/exaforce.png" width="18" height="18" align="texttop" alt=""> Exaforce | Exabots, AI security agents for detection, alert triage, investigation, and response. | https://www.exaforce.com/exabots |
-| 114 | <img src="assets/company-icons/simbian.png" width="18" height="18" align="texttop" alt=""> Simbian | AI security agents for SOC investigations, threat hunting, and penetration testing. | https://simbian.ai/ |
+| 110 | <img src="assets/company-icons/dropzone-ai.png" width="18" height="18" align="texttop" alt=""> Dropzone AI | AI SOC analyst for autonomous alert investigation and threat hunting. | https://www.dropzone.ai/ |
+| 111 | <img src="assets/company-icons/prophet-security.png" width="18" height="18" align="texttop" alt=""> Prophet Security | AI SOC analyst for security alert investigation and response. | https://www.prophetsecurity.ai/ai-soc-analyst |
+| 112 | <img src="assets/company-icons/torq.png" width="18" height="18" align="texttop" alt=""> Torq | Socrates, an agentic AI SOC analyst and orchestrator for SecOps workflows. | https://torq.io/socrates/ |
+| 113 | <img src="assets/company-icons/xbow.png" width="18" height="18" align="texttop" alt=""> XBOW | Autonomous AI penetration tester for offensive security work. | https://xbow.com/ |
+| 114 | <img src="assets/company-icons/exaforce.png" width="18" height="18" align="texttop" alt=""> Exaforce | Exabots, AI security agents for detection, alert triage, investigation, and response. | https://www.exaforce.com/exabots |
+| 115 | <img src="assets/company-icons/simbian.png" width="18" height="18" align="texttop" alt=""> Simbian | AI security agents for SOC investigations, threat hunting, and penetration testing. | https://simbian.ai/ |
 
 ## Healthcare admin and clinical operations agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 115 | <img src="assets/company-icons/hippocratic-ai.png" width="18" height="18" align="texttop" alt=""> Hippocratic AI | Healthcare voice AI agents for non-diagnostic patient-facing workflows. | https://hippocraticai.com/ |
-| 116 | <img src="assets/company-icons/infinitus.svg" width="18" height="18" align="texttop" alt=""> Infinitus | Healthcare AI agents for patient, provider, and payer communications. | https://www.infinitus.ai/ |
-| 117 | <img src="assets/company-icons/hyro.png" width="18" height="18" align="texttop" alt=""> Hyro | Healthcare AI agents for call centers, scheduling, patient access, and routing. | https://www.hyro.ai/ |
-| 118 | <img src="assets/company-icons/tennr.png" width="18" height="18" align="texttop" alt=""> Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
-| 119 | <img src="assets/company-icons/assort-health.png" width="18" height="18" align="texttop" alt=""> Assort Health | Healthcare AI agents for patient calls, scheduling, intake, referrals, and billing. | https://www.assorthealth.com/platform |
-| 120 | <img src="assets/company-icons/notable.png" width="18" height="18" align="texttop" alt=""> Notable | AI agent workforce for patient access, revenue cycle, and care operations. | https://www.notablehealth.com/ai-agent-workforce/overview |
+| 116 | <img src="assets/company-icons/hippocratic-ai.png" width="18" height="18" align="texttop" alt=""> Hippocratic AI | Healthcare voice AI agents for non-diagnostic patient-facing workflows. | https://hippocraticai.com/ |
+| 117 | <img src="assets/company-icons/infinitus.svg" width="18" height="18" align="texttop" alt=""> Infinitus | Healthcare AI agents for patient, provider, and payer communications. | https://www.infinitus.ai/ |
+| 118 | <img src="assets/company-icons/hyro.png" width="18" height="18" align="texttop" alt=""> Hyro | Healthcare AI agents for call centers, scheduling, patient access, and routing. | https://www.hyro.ai/ |
+| 119 | <img src="assets/company-icons/tennr.png" width="18" height="18" align="texttop" alt=""> Tennr | Healthcare AI agents for document, referral, and back-office workflows. | https://www.tennr.com/ |
+| 120 | <img src="assets/company-icons/assort-health.png" width="18" height="18" align="texttop" alt=""> Assort Health | Healthcare AI agents for patient calls, scheduling, intake, referrals, and billing. | https://www.assorthealth.com/platform |
+| 121 | <img src="assets/company-icons/notable.png" width="18" height="18" align="texttop" alt=""> Notable | AI agent workforce for patient access, revenue cycle, and care operations. | https://www.notablehealth.com/ai-agent-workforce/overview |
 
 ## Logistics and supply-chain agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 121 | <img src="assets/company-icons/augment.png" width="18" height="18" align="texttop" alt=""> Augment | Augie, an AI logistics teammate for freight operations from order entry through payment. | https://www.goaugment.com/ |
-| 122 | <img src="assets/company-icons/happyrobot.png" width="18" height="18" align="texttop" alt=""> HappyRobot | AI logistics workers for load booking, rate negotiation, shipment tracking, and documents. | https://www.happyrobot.ai/solutions/industries/logistics-providers |
-| 123 | <img src="assets/company-icons/raft.png" width="18" height="18" align="texttop" alt=""> Raft | AI agents for freight forwarding, customs preparation, shipment operations, and invoices. | https://raft.ai/ |
+| 122 | <img src="assets/company-icons/augment.png" width="18" height="18" align="texttop" alt=""> Augment | Augie, an AI logistics teammate for freight operations from order entry through payment. | https://www.goaugment.com/ |
+| 123 | <img src="assets/company-icons/happyrobot.png" width="18" height="18" align="texttop" alt=""> HappyRobot | AI logistics workers for load booking, rate negotiation, shipment tracking, and documents. | https://www.happyrobot.ai/solutions/industries/logistics-providers |
+| 124 | <img src="assets/company-icons/raft.png" width="18" height="18" align="texttop" alt=""> Raft | AI agents for freight forwarding, customs preparation, shipment operations, and invoices. | https://raft.ai/ |
 
 ## Real estate and property operations agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 124 | <img src="assets/company-icons/eliseai.png" width="18" height="18" align="texttop" alt=""> EliseAI | AI property operations agents for leasing, resident communications, maintenance, and collections. | https://eliseai.com/platform-overview |
-| 125 | <img src="assets/company-icons/funnel.png" width="18" height="18" align="texttop" alt=""> Funnel | Fenix, an AI teammate for leasing, resident requests, delinquency, and renewals. | https://funnelleasing.com/products |
+| 125 | <img src="assets/company-icons/eliseai.png" width="18" height="18" align="texttop" alt=""> EliseAI | AI property operations agents for leasing, resident communications, maintenance, and collections. | https://eliseai.com/platform-overview |
+| 126 | <img src="assets/company-icons/funnel.png" width="18" height="18" align="texttop" alt=""> Funnel | Fenix, an AI teammate for leasing, resident requests, delinquency, and renewals. | https://funnelleasing.com/products |
 
 ## Insurance operations agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 126 | <img src="assets/company-icons/furtherai.png" width="18" height="18" align="texttop" alt=""> FurtherAI | AI insurance teammates for underwriting review, policy comparison, audits, and claims workflows. | https://www.furtherai.com/ |
-| 127 | <img src="assets/company-icons/liberate.png" width="18" height="18" align="texttop" alt=""> Liberate | Insurance AI agents for claims intake, policy servicing, sales, and customer communications. | https://www.liberate.ai/platform |
-| 128 | <img src="assets/company-icons/sixfold.png" width="18" height="18" align="texttop" alt=""> Sixfold | AI underwriting agents for submission review, risk assessment, and case recommendations. | https://www.sixfold.ai/ |
+| 127 | <img src="assets/company-icons/furtherai.png" width="18" height="18" align="texttop" alt=""> FurtherAI | AI insurance teammates for underwriting review, policy comparison, audits, and claims workflows. | https://www.furtherai.com/ |
+| 128 | <img src="assets/company-icons/liberate.png" width="18" height="18" align="texttop" alt=""> Liberate | Insurance AI agents for claims intake, policy servicing, sales, and customer communications. | https://www.liberate.ai/platform |
+| 129 | <img src="assets/company-icons/sixfold.png" width="18" height="18" align="texttop" alt=""> Sixfold | AI underwriting agents for submission review, risk assessment, and case recommendations. | https://www.sixfold.ai/ |
 
 ## Procurement and supplier operations agents
 
 | # | Company | AI employee angle | Link |
 |---:|---|---|---|
-| 129 | <img src="assets/company-icons/omnea.png" width="18" height="18" align="texttop" alt=""> Omnea | Procurement AI agents for intake, reviews, approvals, supplier risk, and purchasing workflows. | https://www.omnea.co/ |
-| 130 | <img src="assets/company-icons/pactum.png" width="18" height="18" align="texttop" alt=""> Pactum | Digital procurement workers for purchase intake, policy checks, sourcing, and supplier negotiations. | https://pactum.com/indirect-procurement |
-| 131 | <img src="assets/company-icons/zip.png" width="18" height="18" align="texttop" alt=""> Zip | AI procurement agents for purchase requests, approvals, vendor coordination, and contracts. | https://zip.com/capabilities/superagents |
+| 130 | <img src="assets/company-icons/omnea.png" width="18" height="18" align="texttop" alt=""> Omnea | Procurement AI agents for intake, reviews, approvals, supplier risk, and purchasing workflows. | https://www.omnea.co/ |
+| 131 | <img src="assets/company-icons/pactum.png" width="18" height="18" align="texttop" alt=""> Pactum | Digital procurement workers for purchase intake, policy checks, sourcing, and supplier negotiations. | https://pactum.com/indirect-procurement |
+| 132 | <img src="assets/company-icons/zip.png" width="18" height="18" align="texttop" alt=""> Zip | AI procurement agents for purchase requests, approvals, vendor coordination, and contracts. | https://zip.com/capabilities/superagents |
 
 <!-- LISTING:END -->
 
