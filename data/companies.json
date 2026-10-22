@@ -757,160 +757,167 @@
   },
   {
     "rank": 109,
+    "category": "Software engineering, IT, and SRE agents",
+    "company": "Orbi",
+    "ai_employee_angle": "Open-source, self-hostable coding agent that takes labeled GitHub Issues through implementation, tests, a separate AI review, and merge.",
+    "link": "https://orbi.build/"
+  },
+  {
+    "rank": 110,
     "category": "Security and SOC agents",
     "company": "Dropzone AI",
     "ai_employee_angle": "AI SOC analyst for autonomous alert investigation and threat hunting.",
     "link": "https://www.dropzone.ai/"
   },
   {
-    "rank": 110,
+    "rank": 111,
     "category": "Security and SOC agents",
     "company": "Prophet Security",
     "ai_employee_angle": "AI SOC analyst for security alert investigation and response.",
     "link": "https://www.prophetsecurity.ai/ai-soc-analyst"
   },
   {
-    "rank": 111,
+    "rank": 112,
     "category": "Security and SOC agents",
     "company": "Torq",
     "ai_employee_angle": "Socrates, an agentic AI SOC analyst and orchestrator for SecOps workflows.",
     "link": "https://torq.io/socrates/"
   },
   {
-    "rank": 112,
+    "rank": 113,
     "category": "Security and SOC agents",
     "company": "XBOW",
     "ai_employee_angle": "Autonomous AI penetration tester for offensive security work.",
     "link": "https://xbow.com/"
   },
   {
-    "rank": 113,
+    "rank": 114,
     "category": "Security and SOC agents",
     "company": "Exaforce",
     "ai_employee_angle": "Exabots, AI security agents for detection, alert triage, investigation, and response.",
     "link": "https://www.exaforce.com/exabots"
   },
   {
-    "rank": 114,
+    "rank": 115,
     "category": "Security and SOC agents",
     "company": "Simbian",
     "ai_employee_angle": "AI security agents for SOC investigations, threat hunting, and penetration testing.",
     "link": "https://simbian.ai/"
   },
   {
-    "rank": 115,
+    "rank": 116,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Hippocratic AI",
     "ai_employee_angle": "Healthcare voice AI agents for non-diagnostic patient-facing workflows.",
     "link": "https://hippocraticai.com/"
   },
   {
-    "rank": 116,
+    "rank": 117,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Infinitus",
     "ai_employee_angle": "Healthcare AI agents for patient, provider, and payer communications.",
     "link": "https://www.infinitus.ai/"
   },
   {
-    "rank": 117,
+    "rank": 118,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Hyro",
     "ai_employee_angle": "Healthcare AI agents for call centers, scheduling, patient access, and routing.",
     "link": "https://www.hyro.ai/"
   },
   {
-    "rank": 118,
+    "rank": 119,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Tennr",
     "ai_employee_angle": "Healthcare AI agents for document, referral, and back-office workflows.",
     "link": "https://www.tennr.com/"
   },
   {
-    "rank": 119,
+    "rank": 120,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Assort Health",
     "ai_employee_angle": "Healthcare AI agents for patient calls, scheduling, intake, referrals, and billing.",
     "link": "https://www.assorthealth.com/platform"
   },
   {
-    "rank": 120,
+    "rank": 121,
     "category": "Healthcare admin and clinical operations agents",
     "company": "Notable",
     "ai_employee_angle": "AI agent workforce for patient access, revenue cycle, and care operations.",
     "link": "https://www.notablehealth.com/ai-agent-workforce/overview"
   },
   {
-    "rank": 121,
+    "rank": 122,
     "category": "Logistics and supply-chain agents",
     "company": "Augment",
     "ai_employee_angle": "Augie, an AI logistics teammate for freight operations from order entry through payment.",
     "link": "https://www.goaugment.com/"
   },
   {
-    "rank": 122,
+    "rank": 123,
     "category": "Logistics and supply-chain agents",
     "company": "HappyRobot",
     "ai_employee_angle": "AI logistics workers for load booking, rate negotiation, shipment tracking, and documents.",
     "link": "https://www.happyrobot.ai/solutions/industries/logistics-providers"
   },
   {
-    "rank": 123,
+    "rank": 124,
     "category": "Logistics and supply-chain agents",
     "company": "Raft",
     "ai_employee_angle": "AI agents for freight forwarding, customs preparation, shipment operations, and invoices.",
     "link": "https://raft.ai/"
   },
   {
-    "rank": 124,
+    "rank": 125,
     "category": "Real estate and property operations agents",
     "company": "EliseAI",
     "ai_employee_angle": "AI property operations agents for leasing, resident communications, maintenance, and collections.",
     "link": "https://eliseai.com/platform-overview"
   },
   {
-    "rank": 125,
+    "rank": 126,
     "category": "Real estate and property operations agents",
     "company": "Funnel",
     "ai_employee_angle": "Fenix, an AI teammate for leasing, resident requests, delinquency, and renewals.",
     "link": "https://funnelleasing.com/products"
   },
   {
-    "rank": 126,
+    "rank": 127,
     "category": "Insurance operations agents",
     "company": "FurtherAI",
     "ai_employee_angle": "AI insurance teammates for underwriting review, policy comparison, audits, and claims workflows.",
     "link": "https://www.furtherai.com/"
   },
   {
-    "rank": 127,
+    "rank": 128,
     "category": "Insurance operations agents",
     "company": "Liberate",
     "ai_employee_angle": "Insurance AI agents for claims intake, policy servicing, sales, and customer communications.",
     "link": "https://www.liberate.ai/platform"
   },
   {
-    "rank": 128,
+    "rank": 129,
     "category": "Insurance operations agents",
     "company": "Sixfold",
     "ai_employee_angle": "AI underwriting agents for submission review, risk assessment, and case recommendations.",
     "link": "https://www.sixfold.ai/"
   },
   {
-    "rank": 129,
+    "rank": 130,
     "category": "Procurement and supplier operations agents",
     "company": "Omnea",
     "ai_employee_angle": "Procurement AI agents for intake, reviews, approvals, supplier risk, and purchasing workflows.",
     "link": "https://www.omnea.co/"
   },
   {
-    "rank": 130,
+    "rank": 131,
     "category": "Procurement and supplier operations agents",
     "company": "Pactum",
     "ai_employee_angle": "Digital procurement workers for purchase intake, policy checks, sourcing, and supplier negotiations.",
     "link": "https://pactum.com/indirect-procurement"
   },
   {
-    "rank": 131,
+    "rank": 132,
     "category": "Procurement and supplier operations agents",
     "company": "Zip",
     "ai_employee_angle": "AI procurement agents for purchase requests, approvals, vendor coordination, and contracts.",
