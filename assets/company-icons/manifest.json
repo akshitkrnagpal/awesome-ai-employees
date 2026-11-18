@@ -382,6 +382,11 @@
     "path": "assets/company-icons/numeric.png",
     "source": "https://cdn.prod.website-files.com/683907d38b135da8b22f5ce5/687592f8f903aeac1110a06e_numeric-webclip.png"
   },
+  "OmegaStar": {
+    "kind": "app-icon",
+    "path": "assets/company-icons/omegastar.png",
+    "source": "https://github.com/itsfutsy/OmegaStar/blob/main/src-tauri/icons/128x128.png"
+  },
   "Omnea": {
     "kind": "apple-touch-icon",
     "path": "assets/company-icons/omnea.png",
