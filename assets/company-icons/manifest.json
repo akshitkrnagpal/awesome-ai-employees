@@ -352,6 +352,11 @@
     "path": "assets/company-icons/maven-agi.png",
     "source": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/68f2457c22b7f34a6d1ba62e_faviconV2%20(1).png"
   },
+  "Midpoint": {
+    "kind": "apple-touch-icon",
+    "path": "assets/company-icons/midpoint.png",
+    "source": "https://midpoint.ai/"
+  },
   "Moveworks": {
     "kind": "favicon",
     "path": "assets/company-icons/moveworks.png",
